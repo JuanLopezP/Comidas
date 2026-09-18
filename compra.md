@@ -1,7 +1,8 @@
 # 🛒 Compra · sábado 19 septiembre
 
-> Bloque preparado para copiar directamente al Atajo del iPhone: **un producto por línea**.
+> Copia el bloque siguiente directamente al Atajo del iPhone. Cada producto está en una línea independiente.
 
+```text
 Cebollas — 1 kg
 Ajo — 1 cabeza
 Pimientos — 3 unidades
@@ -17,12 +18,16 @@ Leche — 1 brick
 Masa para empanada — 1 paquete
 Lentejas cocidas — 2 frascos grandes
 Chorizo — 1 unidad pequeña
+```
 
 ## Solo si está bajo o se ha terminado
+
+```text
 Queso crema / Philadelphia — 1 tarrina
 Tomate triturado — 1–2 bricks
 Caldo de pollo o verduras — 1 brick
 Avena — 1 paquete
+```
 
 ## No comprar esta semana
 - Pollo: hay 200 g congelados.
