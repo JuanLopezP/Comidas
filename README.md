@@ -2,30 +2,297 @@
 
 ## Semana actual · 19–26 septiembre 2026
 
-> Objetivo: comer variado, cocinar poco, reutilizar preparaciones y comprar solo lo necesario.
+> Objetivo: comer variado, cocinar poco, reutilizar preparaciones, pesar cantidades al principio y comprar solo lo necesario.
 
 | Día | 🌅 Desayuno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Sáb 19** | Yogur + avena + plátano + café | Arroz meloso de pavo, calabacín y cebolla | 🍴 Fuera |
-| **Dom 20** | Tostadas + Philadelphia + pavo + fruta + café | Cocido congelado | Empanada de atún, huevo, tomate y pimiento |
-| **Lun 21** | Yogur + avena + fruta + café | Arroz del sábado | Empanada restante |
-| **Mar 22** | Tostadas + Philadelphia + pavo + fruta + café | Pollo con patata, calabacín, cebolla y pimiento | Tortilla española + tomate |
-| **Mié 23** | Yogur + avena + fruta + café | Pollo restante | Pasta con atún, tomate, calabacín y queso |
-| **Jue 24** | Tostadas + huevos revueltos + fruta + café | Pasta restante | Merluza con patata y verduras |
-| **Vie 25** | Yogur + avena + plátano + café | Lentejas con verduras y un poco de chorizo | Quesadilla/pizza rápida con tortilla de trigo |
-| **Sáb 26** | Tostadas con queso crema y pavo + fruta + café | — nueva planificación — | — |
+| **Sáb 19** | Yogur + avena + plátano + café | Arroz meloso con pavo y calabacín | 🍴 Fuera |
+| **Dom 20** | Tostadas + queso crema + pavo + fruta | Cocido congelado | Empanada de atún y pisto |
+| **Lun 21** | Yogur + avena + fruta + café | ⚡ Arroz rápido con pavo y pisto | Empanada restante + tomate |
+| **Mar 22** | Tostadas + queso crema + pavo + fruta | Pollo al horno con patata y verduras | Tortilla española pequeña + tomate |
+| **Mié 23** | Yogur + avena + fruta + café | ⚡ Arroz con atún, tomate y judías verdes | Pasta con atún, calabacín y queso |
+| **Jue 24** | Tostadas + huevos revueltos + fruta | Pasta restante | Merluza con patata y verduras |
+| **Vie 25** | Yogur + avena + plátano + café | Lentejas con verduras y un poco de chorizo | Quesadilla rápida de pavo y queso |
+| **Sáb 26** | Tostadas con queso crema y pavo + fruta | — nueva planificación — | — |
 
-### 🔔 Qué toca preparar
+## 🔔 Preparaciones clave
 
-- **Sábado:** hacer 2 raciones de arroz. Guardar una para el lunes.
-- **Domingo:** hacer la empanada entera. Guardar la mitad para el lunes.
-- **Martes:** hacer 2 raciones de pollo con patata y verduras.
-- **Miércoles:** hacer 2 raciones de pasta con atún.
-- **Viernes:** hacer 2–3 raciones de lentejas; guardar una y congelar otra si sobra.
+- **Sábado:** descongelar y cocinar los **300 g de pavo**. Usar ~160 g en la comida y guardar ~140 g ya cocinados para el lunes.
+- **Domingo:** hacer la **empanada entera**. Guardar aproximadamente la mitad para el lunes por la noche.
+- **Lunes:** comida de **5 minutos** por la reunión: arroz ya cocinado + pavo del sábado + pisto.
+- **Miércoles:** gastar el segundo recipiente de arroz ya cocinado.
+- **Miércoles noche:** hacer **2 raciones de pasta** para dejar el jueves resuelto.
+- **Viernes:** hacer **2–3 raciones de lentejas**; guardar/congelar lo que sobre.
 
-### 📌 Accesos rápidos
+---
 
-- [Plan detallado de la semana](semanas/2026-09-19.md)
+# 📅 Día a día
+
+## Sábado 19
+
+### 🌅 Desayuno
+- Yogur alto en proteína o griego natural: **250 g**
+- Avena: **40–50 g**
+- Plátano: **1 unidad**
+- Café con un poco de leche
+
+### 🍲 Comida · Arroz meloso con pavo y calabacín
+**Para 1 ración**
+- Pavo crudo: **160 g**
+- Arroz seco: **90–100 g**
+- Calabacín: **150 g**
+- Cebolla: **60–80 g**
+- Pisto/tomate con verduras: **80–100 g**
+- Caldo o agua: aprox. **250–300 ml**
+- Aceite de oliva: **5–10 g**
+- Pimentón, ajo en polvo, pimienta y sal
+
+**Cómo hacerlo**
+1. Descongela los **300 g de pavo**.
+2. Corta cebolla y calabacín. Sofríelos con el aceite durante 4–5 min.
+3. Añade todo el pavo y cocina hasta que quede completamente hecho.
+4. Retira y guarda **~140 g de pavo cocinado** para el lunes.
+5. Deja en la sartén la parte correspondiente a hoy y añade el arroz.
+6. Añade el pisto y el caldo poco a poco.
+7. Cocina unos 15–18 min, removiendo de vez en cuando, hasta que quede jugoso.
+
+### 🌙 Cena
+🍴 Fuera de casa.
+
+---
+
+## Domingo 20
+
+### 🌅 Desayuno
+- Pan integral: **70–90 g**
+- Queso crema: **25–30 g**
+- Fiambre de pavo: **60–80 g**
+- 1 pieza de fruta
+- Café
+
+### 🍲 Comida · Cocido
+- **1 frasco** de cocido congelado
+- Si la ración se queda corta: añadir **1 fruta** o un poco de pan
+
+### 🌙 Cena · Empanada de atún y pisto
+**Para 2 cenas**
+- Masa de empanada: **1 paquete**
+- Atún en aceite de girasol: **2 latas**, bien escurridas
+- Pisto con verduras: **1 frasco pequeño**
+- Huevos: **2**
+- Opcional: queso rallado **20–30 g**
+
+**Cómo hacerlo**
+1. Cuece 2 huevos durante unos 10 min y pícalos.
+2. Escurre muy bien el atún.
+3. Mezcla atún + pisto + huevo.
+4. Extiende la masa, reparte el relleno y ciérrala.
+5. Haz un pequeño agujero arriba para que salga vapor.
+6. Hornea según indique el envase, normalmente alrededor de 200 °C hasta que esté dorada.
+7. Come aproximadamente **la mitad** y guarda la otra mitad en nevera para el lunes.
+
+---
+
+## Lunes 21 · reunión, comida rápida
+
+### 🌅 Desayuno
+- Yogur: **250 g**
+- Avena: **40–50 g**
+- Fruta: **1 pieza**
+- Café
+
+### ⚡ Comida · Arroz rápido con pavo y pisto
+**Tiempo: 4–6 min**
+- Arroz blanco ya cocinado: **200–250 g**
+- Pavo cocinado del sábado: **~140 g**
+- Pisto: **80–100 g**
+- Opcional: judías verdes cocidas **100–150 g**
+- Queso: **15–20 g** si apetece
+
+**Cómo hacerlo**
+1. Pon el arroz en un bol apto para microondas.
+2. Añade el pavo y el pisto.
+3. Si quieres más volumen, añade judías verdes escurridas.
+4. Calienta 2–3 min, remueve y vuelve a calentar si hace falta.
+5. Añade queso al final si quieres.
+
+> Esta comida está pensada deliberadamente para llegar de la reunión, calentar y comer.
+
+### 🌙 Cena
+- Empanada restante: **~1/2 empanada**
+- Tomate: **1 unidad** aliñado con **5 g de aceite**, sal y orégano
+
+---
+
+## Martes 22
+
+### 🌅 Desayuno
+- Pan integral: **70–90 g**
+- Queso crema: **25–30 g**
+- Fiambre de pavo: **60–80 g**
+- 1 fruta
+- Café
+
+### 🍲 Comida · Pollo con patatas y verduras al horno
+- Pollo congelado: **200 g**
+- Patata: **250–300 g**
+- Calabacín: **150 g**
+- Pimiento: **100 g**
+- Cebolla: **70 g**
+- Aceite: **10 g**
+- Sal, pimienta, ajo en polvo y pimentón
+
+**Cómo hacerlo**
+1. Descongela el pollo la noche anterior en nevera.
+2. Corta patata y verduras en trozos pequeños.
+3. Mezcla todo menos el pollo con aceite y especias.
+4. Hornea a unos 200 °C durante 15–20 min.
+5. Añade el pollo en trozos y cocina otros 15–20 min, hasta que esté completamente hecho.
+6. Si quieres ensuciar menos, usa papel de horno.
+
+### 🌙 Cena · Tortilla española pequeña
+- Patata: **200–250 g**
+- Huevos: **2–3**
+- Cebolla: **50 g**
+- Aceite: **5–10 g**
+- Tomate al lado: **1 unidad**
+
+**Atajo**
+1. Corta la patata fina.
+2. Ablándala primero 5–7 min en microondas.
+3. Termina patata + cebolla en sartén.
+4. Mezcla con huevo batido y cuaja.
+
+---
+
+## Miércoles 23
+
+### 🌅 Desayuno
+- Yogur: **250 g**
+- Avena: **40–50 g**
+- 1 fruta
+- Café
+
+### ⚡ Comida · Arroz con atún, tomate y judías verdes
+- Segundo recipiente de arroz cocido: **200–250 g**
+- Atún con tomate: **1 lata**
+- Judías verdes cocidas: **150–200 g**
+- Queso de la cuña: **20–25 g** opcional
+
+**Cómo hacerlo**
+1. Escurre las judías verdes.
+2. Mezcla arroz + atún con tomate + judías.
+3. Calienta todo 2–3 min en microondas.
+4. Añade unas lascas de queso al final si te apetece.
+
+### 🌙 Cena · Pasta con atún, calabacín y queso
+**Haz 2 raciones**
+- Pasta seca: **180–200 g**
+- Atún en aceite: **2 latas**, escurridas
+- Calabacín: **200 g**
+- Cebolla: **100 g**
+- Tomate triturado/pisto: **180–200 g**
+- Queso: **40–50 g** en total
+- Aceite: **5–10 g**
+
+**Cómo hacerlo**
+1. Cuece toda la pasta.
+2. Sofríe cebolla y calabacín.
+3. Añade tomate/pisto y cocina 3–4 min.
+4. Incorpora el atún.
+5. Mezcla con la pasta.
+6. Divide en **2 recipientes iguales**.
+7. Come uno y guarda el otro para el jueves.
+
+---
+
+## Jueves 24
+
+### 🌅 Desayuno
+- Pan integral: **70–90 g**
+- Huevos revueltos: **2**
+- 1 fruta
+- Café
+
+### 🍲 Comida
+- Segunda ración de pasta del miércoles.
+
+### 🌙 Cena · Merluza con patata y verduras
+- Merluza: **180–220 g**
+- Patata: **200–250 g**
+- Cebolla: **60 g**
+- Pimiento: **80–100 g**
+- Aceite: **5–10 g**
+- Ajo, pimienta y sal
+
+**Cómo hacerlo**
+1. Corta la patata fina y cocínala primero 5–7 min en microondas.
+2. Pon patata, cebolla y pimiento en una fuente.
+3. Hornea unos 10–15 min.
+4. Coloca la merluza encima, sazona y añade un poco de aceite.
+5. Hornea hasta que la merluza esté hecha y se separe fácilmente en lascas.
+
+---
+
+## Viernes 25
+
+### 🌅 Desayuno
+- Yogur: **250 g**
+- Avena: **40–50 g**
+- Plátano: **1**
+- Café
+
+### 🍲 Comida · Lentejas con verduras y chorizo
+**Haz 2–3 raciones**
+- Lentejas cocidas escurridas: **500–600 g**
+- Cebolla: **100 g**
+- Zanahoria: **100 g**
+- Pimiento: **100 g**
+- Calabacín: **150 g**
+- Ajo: **1 diente**
+- Tomate triturado/pisto: **150–200 g**
+- Chorizo: **40–60 g** para toda la olla
+- Caldo/agua: **250–350 ml**
+- Aceite: **10 g**
+- Pimentón
+
+**Cómo hacerlo**
+1. Pica cebolla, zanahoria, pimiento, calabacín y ajo.
+2. Sofríe con el aceite 6–8 min.
+3. Añade pimentón y tomate/pisto.
+4. Añade el chorizo cortado pequeño.
+5. Incorpora lentejas y caldo.
+6. Cocina 15 min a fuego medio.
+7. Divide en **2–3 raciones**. Congela una si no la vas a comer en los siguientes días.
+
+### 🌙 Cena · Quesadilla rápida
+- Tortillas de trigo: **2**
+- Fiambre de pavo: **60–80 g**
+- Queso: **40–50 g**
+- Pisto/tomate: **30–50 g**
+- Pimiento opcional
+
+**Cómo hacerlo**
+1. Pon una tortilla en sartén.
+2. Añade una capa fina de pisto, pavo y queso.
+3. Cierra con otra tortilla o dóblala.
+4. Cocina a fuego medio por ambos lados hasta que el queso se funda.
+
+---
+
+## Sábado 26 por la mañana
+
+### 🌅 Desayuno
+- Tostadas con queso crema y pavo + fruta + café  
+**o**
+- Yogur + avena + fruta si queda.
+
+Después: revisar [inventario](inventario.md), planificar la nueva semana y regenerar [compra](compra.md).
+
+---
+
+## 📌 Accesos rápidos
+- [Plan archivado de esta semana](semanas/2026-09-19.md)
 - [Lista de la compra](compra.md)
 - [Inventario](inventario.md)
 - [Recetas](recetas/)
