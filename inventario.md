@@ -1,32 +1,38 @@
 # 📦 Inventario
 
-> Estado actualizado el viernes 18 de septiembre. Actualizar cuando se gaste, congele o compre algo relevante.
+> Estado actualizado el sábado 19 de septiembre tras hacer la empanada y comprar fruta/verdura.
 
 ## ❄️ Congelador
-- [ ] Pavo crudo — **300 g**
+- [ ] Pavo crudo — **300 g** (usar domingo)
 - [ ] Pollo de las fajitas — **200 g**
 - [ ] Cocido casero — **2 frascos**
-- [ ] Chorizo — **1 unidad** después de usar 1 esta semana
+- [ ] Chorizos — **2 unidades**; usar 1 esta semana y congelar 1
 
 ## 🧊 Nevera / fresco
 - [ ] Calabacines — **2**
-- [ ] Tomate — **1**
+- [ ] Tomates — **6 aprox.** (1 que quedaba + 5 comprados)
 - [ ] Patatas — **2 kg**
+- [ ] Cebollas — **1 kg**
+- [ ] Ajo — **1 cabeza**
+- [ ] Pimientos — **3**
+- [ ] Zanahorias — **3**
+- [ ] Plátanos — **6 aprox.** (3 que quedaban + 3 comprados)
+- [ ] Manzanas/peras/mandarinas — **6**
 - [ ] Cuña de queso — **1, sin empezar**
 - [ ] Queso rallado — **menos de 100 g**
 - [ ] Fiambre de pavo — **1 recipiente sin empezar**
 - [ ] Queso crema / Philadelphia — disponible
+- [ ] Huevos — **10**
 - [ ] Yogures — revisar cantidad
-- [ ] Plátanos — **3**
 
 ## 🥫 Conservas y frascos
-- [ ] Atún en aceite de girasol — **6 latas**
+- [ ] Atún en aceite de girasol — **3 latas**
 - [ ] Atún con tomate — **6 latas**
 - [ ] Sardinetas en tomate — **2 latas**
 - [ ] Sardinetas en aceite de oliva — **2 latas**
 - [ ] Paté de hígado de cerdo — **3 latas**
 - [ ] Judías verdes cocidas — **2 frascos grandes**
-- [ ] Pisto con verduras — **2 frascos pequeños**
+- [ ] Pisto con verduras — **0**
 - [ ] Lentejas cocidas — **1 frasco grande**
 - [ ] Tomate triturado — de sobra
 - [ ] Caldo de pollo — **2 bricks**
@@ -38,20 +44,11 @@
 - [ ] Fideos — disponibles
 - [ ] Tortillas de trigo para fajitas — quedan bastantes
 - [ ] Pan para tostadas — disponible
-- [ ] Masa de empanada — disponible
+- [ ] Masa de empanada — **0**
 - [ ] Avena — paquete prácticamente nuevo
 
 ## 🥛 Otros
-- [ ] Leche — **pack de 6 bricks**
-
-## 🧂 Despensa
-- [ ] Aceite de oliva
-- [ ] Sal
-- [ ] Pimienta
-- [ ] Pimentón
-- [ ] Orégano
-- [ ] Ajo en polvo
-- [ ] Comino
+- [ ] Leche — **6 bricks**
 
 ## 🍳 Equipamiento útil
 - Batidora
