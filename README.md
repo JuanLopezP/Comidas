@@ -6,10 +6,10 @@
 
 | Día | 🌅 Desayuno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Sáb 19** | Yogur + avena + plátano + café | Arroz meloso con pavo y calabacín | 🍴 Fuera |
-| **Dom 20** | Tostadas + queso crema + pavo + fruta | Cocido congelado | Empanada de atún y pisto |
-| **Lun 21** | Yogur + avena + fruta + café | ⚡ Arroz rápido con pavo y pisto | Empanada restante + tomate |
-| **Mar 22** | Tostadas + queso crema + pavo + fruta | Pollo al horno con patata y verduras | Tortilla española pequeña + tomate |
+| **Sáb 19** | Yogur + avena + plátano + café | ✅ Empanada de atún y pisto | 🍴 Fuera |
+| **Dom 20** | Tostadas + queso crema + pavo + fruta | Arroz meloso con pavo y calabacín | Empanada restante |
+| **Lun 21** | Yogur + avena + fruta + café | ⚡ Cocido congelado | Tortilla española pequeña + tomate |
+| **Mar 22** | Tostadas + queso crema + pavo + fruta | Pollo al horno con patata y verduras | Quesadilla rápida de pavo y queso |
 | **Mié 23** | Yogur + avena + fruta + café | ⚡ Arroz con atún, tomate y judías verdes | Pasta con atún, calabacín y queso |
 | **Jue 24** | Tostadas + huevos revueltos + fruta | Pasta restante | Merluza con patata y verduras |
 | **Vie 25** | Yogur + avena + plátano + café | Lentejas con verduras y un poco de chorizo | Quesadilla rápida de pavo y queso |
@@ -17,9 +17,9 @@
 
 ## 🔔 Preparaciones clave
 
-- **Sábado:** descongelar y cocinar los **300 g de pavo**. Usar ~160 g en la comida y guardar ~140 g ya cocinados para el lunes.
-- **Domingo:** hacer la **empanada entera**. Guardar aproximadamente la mitad para el lunes por la noche.
-- **Lunes:** comida de **5 minutos** por la reunión: arroz ya cocinado + pavo del sábado + pisto.
+- **Sábado:** ✅ empanada hecha. Se gastaron **3 latas de atún, 2 huevos, la masa y todo el pisto**.
+- **Domingo:** descongelar y cocinar los **300 g de pavo** para el arroz meloso. Guardar la empanada restante para la cena.
+- **Lunes:** comida de **5 minutos** por la reunión: calentar **1 frasco de cocido**.
 - **Miércoles:** gastar el segundo recipiente de arroz ya cocinado.
 - **Miércoles noche:** hacer **2 raciones de pasta** para dejar el jueves resuelto.
 - **Viernes:** hacer **2–3 raciones de lentejas**; guardar/congelar lo que sobre.
@@ -36,25 +36,16 @@
 - Plátano: **1 unidad**
 - Café con un poco de leche
 
-### 🍲 Comida · Arroz meloso con pavo y calabacín
-**Para 1 ración**
-- Pavo crudo: **160 g**
-- Arroz seco: **90–100 g**
-- Calabacín: **150 g**
-- Cebolla: **60–80 g**
-- Pisto/tomate con verduras: **80–100 g**
-- Caldo o agua: aprox. **250–300 ml**
-- Aceite de oliva: **5–10 g**
-- Pimentón, ajo en polvo, pimienta y sal
+### 🍲 Comida · ✅ Empanada de atún y pisto
+Cambio realizado porque el pavo seguía congelado.
 
-**Cómo hacerlo**
-1. Descongela los **300 g de pavo**.
-2. Corta cebolla y calabacín. Sofríelos con el aceite durante 4–5 min.
-3. Añade todo el pavo y cocina hasta que quede completamente hecho.
-4. Retira y guarda **~140 g de pavo cocinado** para el lunes.
-5. Deja en la sartén la parte correspondiente a hoy y añade el arroz.
-6. Añade el pisto y el caldo poco a poco.
-7. Cocina unos 15–18 min, removiendo de vez en cuando, hasta que quede jugoso.
+**Gastado**
+- Masa de empanada: **1 paquete**
+- Atún: **3 latas**
+- Huevos: **2**
+- Pisto: **todo el que quedaba**
+
+Si sobra empanada, guardar en nevera para la cena del domingo.
 
 ### 🌙 Cena
 🍴 Fuera de casa.
@@ -70,26 +61,29 @@
 - 1 pieza de fruta
 - Café
 
-### 🍲 Comida · Cocido
-- **1 frasco** de cocido congelado
-- Si la ración se queda corta: añadir **1 fruta** o un poco de pan
-
-### 🌙 Cena · Empanada de atún y pisto
-**Para 2 cenas**
-- Masa de empanada: **1 paquete**
-- Atún en aceite de girasol: **2 latas**, bien escurridas
-- Pisto con verduras: **1 frasco pequeño**
-- Huevos: **2**
-- Opcional: queso rallado **20–30 g**
+### 🍲 Comida · Arroz meloso con pavo y calabacín
+- Pavo crudo: **300 g**
+- Arroz seco: **90–100 g**
+- Calabacín: **150 g**
+- Cebolla: **60–80 g**
+- Tomate triturado: **80–100 g**
+- Caldo: **250–300 ml**
+- Aceite: **5–10 g**
+- Pimentón, ajo en polvo, pimienta y sal
 
 **Cómo hacerlo**
-1. Cuece 2 huevos durante unos 10 min y pícalos.
-2. Escurre muy bien el atún.
-3. Mezcla atún + pisto + huevo.
-4. Extiende la masa, reparte el relleno y ciérrala.
-5. Haz un pequeño agujero arriba para que salga vapor.
-6. Hornea según indique el envase, normalmente alrededor de 200 °C hasta que esté dorada.
-7. Come aproximadamente **la mitad** y guarda la otra mitad en nevera para el lunes.
+1. Pasa el pavo a la nevera con tiempo para que se descongele.
+2. Sofríe cebolla y calabacín 4–5 min.
+3. Añade el pavo y cocínalo completamente.
+4. Añade arroz y tomate triturado.
+5. Incorpora el caldo poco a poco.
+6. Cocina 15–18 min hasta que el arroz quede jugoso.
+
+> Como son **300 g de pavo**, si la ración queda grande, guarda una parte del pavo ya cocinado para otra comida.
+
+### 🌙 Cena
+- Empanada restante del sábado.
+- Si queda poca: acompaña con tomate aliñado o un yogur.
 
 ---
 
@@ -101,26 +95,28 @@
 - Fruta: **1 pieza**
 - Café
 
-### ⚡ Comida · Arroz rápido con pavo y pisto
+### ⚡ Comida · Cocido
 **Tiempo: 4–6 min**
-- Arroz blanco ya cocinado: **200–250 g**
-- Pavo cocinado del sábado: **~140 g**
-- Pisto: **80–100 g**
-- Opcional: judías verdes cocidas **100–150 g**
-- Queso: **15–20 g** si apetece
+- Cocido congelado: **1 frasco**
 
 **Cómo hacerlo**
-1. Pon el arroz en un bol apto para microondas.
-2. Añade el pavo y el pisto.
-3. Si quieres más volumen, añade judías verdes escurridas.
-4. Calienta 2–3 min, remueve y vuelve a calentar si hace falta.
-5. Añade queso al final si quieres.
+1. Pásalo del congelador a la nevera la noche anterior.
+2. Calienta en microondas o cazo hasta que esté bien caliente.
+3. Si te quedas con hambre, añade una pieza de fruta o un poco de pan.
 
-> Esta comida está pensada deliberadamente para llegar de la reunión, calentar y comer.
+### 🌙 Cena · Tortilla española pequeña + tomate
+- Patata: **200–250 g**
+- Huevos: **2–3**
+- Cebolla: **50 g**
+- Aceite: **5–10 g**
+- Tomate: **1 unidad**
 
-### 🌙 Cena
-- Empanada restante: **~1/2 empanada**
-- Tomate: **1 unidad** aliñado con **5 g de aceite**, sal y orégano
+**Cómo hacerlo**
+1. Corta la patata fina.
+2. Ablándala 5–7 min en microondas.
+3. Termina patata + cebolla en sartén.
+4. Mezcla con los huevos batidos y cuaja por ambos lados.
+5. Acompaña con tomate, sal, orégano y unos **5 g de aceite**.
 
 ---
 
@@ -147,21 +143,20 @@
 2. Corta patata y verduras en trozos pequeños.
 3. Mezcla todo menos el pollo con aceite y especias.
 4. Hornea a unos 200 °C durante 15–20 min.
-5. Añade el pollo en trozos y cocina otros 15–20 min, hasta que esté completamente hecho.
-6. Si quieres ensuciar menos, usa papel de horno.
+5. Añade el pollo y cocina otros 15–20 min hasta que esté completamente hecho.
 
-### 🌙 Cena · Tortilla española pequeña
-- Patata: **200–250 g**
-- Huevos: **2–3**
-- Cebolla: **50 g**
-- Aceite: **5–10 g**
-- Tomate al lado: **1 unidad**
+### 🌙 Cena · Quesadilla rápida
+- Tortillas de trigo: **2**
+- Fiambre de pavo: **60–80 g**
+- Queso: **40–50 g**
+- Tomate triturado: **30–50 g**
+- Pimiento opcional
 
-**Atajo**
-1. Corta la patata fina.
-2. Ablándala primero 5–7 min en microondas.
-3. Termina patata + cebolla en sartén.
-4. Mezcla con huevo batido y cuaja.
+**Cómo hacerlo**
+1. Pon una tortilla en sartén.
+2. Añade una capa fina de tomate, pavo y queso.
+3. Cierra con otra tortilla o dóblala.
+4. Cocina a fuego medio por ambos lados hasta que el queso se funda.
 
 ---
 
@@ -191,7 +186,7 @@
 - Atún en aceite: **2 latas**, escurridas
 - Calabacín: **200 g**
 - Cebolla: **100 g**
-- Tomate triturado/pisto: **180–200 g**
+- Tomate triturado: **180–200 g**
 - Queso: **40–50 g** en total
 - Aceite: **5–10 g**
 
@@ -250,7 +245,7 @@
 - Pimiento: **100 g**
 - Calabacín: **150 g**
 - Ajo: **1 diente**
-- Tomate triturado/pisto: **150–200 g**
+- Tomate triturado: **150–200 g**
 - Chorizo: **40–60 g** para toda la olla
 - Caldo/agua: **250–350 ml**
 - Aceite: **10 g**
@@ -269,7 +264,7 @@
 - Tortillas de trigo: **2**
 - Fiambre de pavo: **60–80 g**
 - Queso: **40–50 g**
-- Pisto/tomate: **30–50 g**
+- Tomate triturado: **30–50 g**
 - Pimiento opcional
 
 **Cómo hacerlo**
