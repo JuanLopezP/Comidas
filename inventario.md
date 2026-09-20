@@ -3,7 +3,7 @@
 > Estado actualizado el sábado 19 de septiembre tras hacer la empanada y comprar fruta/verdura.
 
 ## ❄️ Congelador
-- [ ] Pavo crudo — **300 g** (usar domingo)
+- [ ] Pavo — **300 g**, descongelado el domingo; cocinar hoy y pasar a nevera
 - [ ] Pollo de las fajitas — **200 g**
 - [ ] Cocido casero — **2 frascos**
 - [ ] Chorizos — **2 unidades**; usar 1 esta semana y congelar 1
@@ -38,7 +38,7 @@
 - [ ] Caldo de pollo — **2 bricks**
 
 ## 🍚 Cereales / hidratos
-- [ ] Arroz blanco ya cocinado para calentar — **2 recipientes**
+- [ ] Arroz blanco ya cocinado para calentar — **2 recipientes** (usar 1 el lunes)
 - [ ] Arroz seco — **~1 kg**
 - [ ] Pasta — disponible
 - [ ] Fideos — disponibles
