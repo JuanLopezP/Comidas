@@ -18,9 +18,9 @@
 | Día | 🌅 Desayuno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
 | **Sáb 19** | Yogur + avena + plátano + café | ✅ Empanada de atún y pisto | 🍴 Fuera |
-| **Dom 20** | Tostadas + queso crema + pavo + fruta | Sobras de la cena de fuera | Empanada |
-| **Lun 21** | Yogur + avena + fruta + café | ⚡ Arroz rápido con pavo ya cocinado | Empanada restante + tomate |
-| **Mar 22** | Tostadas + queso crema + pavo + fruta | Pollo al horno con patata y verduras | Quesadilla rápida de pavo y queso |
+| **Dom 20** | Tostadas + queso crema + pavo + fruta | Sobras de la cena de fuera | 🍴 Fuera |
+| **Lun 21** | Yogur + avena + fruta + café | ⚡ Arroz rápido con pavo ya cocinado | Empanada + tomate |
+| **Mar 22** | Tostadas + queso crema + pavo + fruta | Pollo al horno con patata y verduras | Empanada restante o quesadilla si ya no queda |
 | **Mié 23** | Yogur + avena + fruta + café | ⚡ Arroz con atún, tomate y judías verdes | Pasta con atún, calabacín y queso |
 | **Jue 24** | Tostadas + huevos revueltos + fruta | Pasta restante | Merluza con patata y verduras |
 | **Vie 25** | Yogur + avena + plátano + café | Lentejas con verduras y un poco de chorizo | Quesadilla rápida de pavo y queso |
@@ -29,7 +29,7 @@
 ## 🔔 Preparaciones clave
 
 - **Sábado:** ✅ empanada hecha. Se gastaron **3 latas de atún, 2 huevos, la masa y todo el pisto**.
-- **Domingo:** comer las sobras de la cena de fuera y cenar empanada. Cocinar aparte los **300 g de pavo** y guardarlos ya hechos para el lunes.
+- **Domingo:** comer las sobras de la cena de fuera, cenar fuera y cocinar aparte los **300 g de pavo** para dejarlos listos para el lunes. La empanada pasa a lunes/martes.
 - **Lunes:** comida de **5 minutos** por la reunión: arroz ya cocinado + pavo preparado el domingo + tomate triturado. Cena con la empanada que quede.
 - **Miércoles:** gastar el segundo recipiente de arroz ya cocinado.
 - **Miércoles noche:** hacer **2 raciones de pasta** para dejar el jueves resuelto.
@@ -94,10 +94,10 @@ Como el pavo ya se ha descongelado, cocínalo hoy y déjalo listo para el lunes.
 
 > Guarda el pavo cocinado en la nevera en cuanto deje de estar muy caliente y úsalo prioritariamente en los próximos días.
 
-### 🌙 Cena · Empanada
-- Come la cantidad que necesites de la empanada.
-- Guarda lo que quede para la cena del lunes.
-- Si la ración es pequeña, acompaña con tomate aliñado o un yogur.
+### 🌙 Cena
+🍴 Fuera de casa.
+
+> La empanada se conserva para el lunes. Si queda bastante después de cenar el lunes, termina el resto el martes por la noche.
 
 ---
 
@@ -126,13 +126,13 @@ Como el pavo ya se ha descongelado, cocínalo hoy y déjalo listo para el lunes.
 
 > Está pensado para llegar de la reunión y comer prácticamente al momento.
 
-### 🌙 Cena · Empanada restante + tomate
-- Empanada que quede del domingo.
+### 🌙 Cena · Empanada + tomate
+- Empanada preparada el sábado
 - Tomate: **1 unidad**
 - Aceite: **5 g**
 - Sal y orégano
 
-Si apenas queda empanada, añade un yogur o una tostada con pavo/queso.
+Come una ración normal. Si queda todavía una cantidad suficiente, guárdala para el martes por la noche.
 
 ---
 
@@ -161,14 +161,16 @@ Si apenas queda empanada, añade un yogur o una tostada con pavo/queso.
 4. Hornea a unos 200 °C durante 15–20 min.
 5. Añade el pollo y cocina otros 15–20 min hasta que esté completamente hecho.
 
-### 🌙 Cena · Quesadilla rápida
+### 🌙 Cena · Empanada restante o quesadilla
+**Primera opción:** termina la empanada si todavía queda una ración.
+
+**Si ya no queda empanada, haz la quesadilla:**
 - Tortillas de trigo: **2**
 - Fiambre de pavo: **60–80 g**
 - Queso: **40–50 g**
 - Tomate triturado: **30–50 g**
 - Pimiento opcional
 
-**Cómo hacerlo**
 1. Pon una tortilla en sartén.
 2. Añade una capa fina de tomate, pavo y queso.
 3. Cierra con otra tortilla o dóblala.
