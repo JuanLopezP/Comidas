@@ -4,6 +4,17 @@
 
 > Objetivo: comer variado, cocinar poco, reutilizar preparaciones, pesar cantidades al principio y comprar solo lo necesario.
 
+## 🧭 Estrategia semanal
+
+- **Fin de semana:** cocinar las bases y preparaciones que más tiempo llevan y dejar varias raciones listas.
+- **Lunes:** comida muy rápida o ya preparada; evitar cocinar desde cero.
+- **Martes:** segundo día fuerte de cocina de la semana; aprovechar que hay más tiempo para una receta algo más elaborada y, si compensa, hacer 2–3 raciones.
+- **Miércoles a viernes:** priorizar recalentar, montar platos rápidos o usar bases preparadas el finde/martes.
+- **Objetivo práctico:** entre semana, salvo el martes, que la mayoría de comidas requieran **5–15 minutos reales de trabajo**.
+- **Regla de reutilización:** cocinar una base una vez y cambiar acompañamiento/salsa/proteína para no sentir que se come exactamente lo mismo.
+- **Compra del sábado:** planificar primero con congelador, nevera y sobras; comprar después solo lo que falte.
+
+
 | Día | 🌅 Desayuno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
 | **Sáb 19** | Yogur + avena + plátano + café | ✅ Empanada de atún y pisto | 🍴 Fuera |
