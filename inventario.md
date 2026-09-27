@@ -26,7 +26,7 @@
 ## 🥫 Conservas y frascos
 - [ ] Pisto — **1 frasco grande**
 - [ ] Lentejas cocidas — **1 frasco grande**
-- [ ] Atún — queda stock
+- [ ] Atún — **0**; comprar 6 latas
 - [ ] Sardinetas — queda stock
 - [ ] Tomate triturado — de sobra
 - [ ] Caldo de pollo en brick — hay stock
