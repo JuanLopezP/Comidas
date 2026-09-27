@@ -21,8 +21,7 @@
 | **Mié 30** | Yogur + fruta + tostada | Arroz amarillo con 2 muslos y verduras | Cena ligera con pavo/atún |
 | **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Pasta con atún y tomate |
 | **Vie 2** | Tostada con tomate + pavo | Pasta restante o arroz con pisto | Fajitas/quesadilla de pavo |
-| **Sáb 3** | Yogur + avena + plátano | Lentejas con verduras y chorizo ibérico | Cena ligera con tortilla/atún y tomate |
-| **Dom 4** | Tostadas + queso crema + fruta | Lentejas restantes o comida libre planificada | Merluza con patata y verduras |
+| **Sáb 3** | Yogur + avena + plátano | — nueva planificación tras la compra — | — |
 
 ## 🔔 Preparaciones clave
 
@@ -30,7 +29,8 @@
 - **Martes:** cocinar el **caldillo** con 2 muslos y dejarlo listo para ese día.
 - **Miércoles:** hacer un arroz rápido tipo paella con los últimos 2 muslos y colorante.
 - **Miércoles noche:** usar arroz seco y pisto para una cena con buen aporte de hidratos antes del CrossFit del jueves.
-- **Sábado:** hacer las lentejas para **2–3 raciones**.
+- **Viernes:** revisar inventario y preparar la planificación de la semana siguiente.
+- **Próximo fin de semana:** incluir **lentejas con verduras y chorizo ibérico** como una de las preparaciones principales.
 
 ---
 
@@ -209,48 +209,16 @@ Descongélalo la noche anterior y caliéntalo.
 - Plátano: **1**
 - Café
 
-### 🍲 Comida · Lentejas con verduras y chorizo ibérico
-**Haz 2–3 raciones**
-- Lentejas cocidas: **1 frasco grande**
-- Chorizo ibérico congelado: **40–60 g**
-- Zanahoria: **100 g**
-- Cebolla: **100 g**
-- Ajo: **1 diente**
-- Tomate triturado: **150–200 g**
-- Calabacín: lo que quede
-- Caldo/agua: **250–350 ml**
-- Aceite: **10 g**
-- Pimentón
-
-### 🌙 Cena
-- Tortilla francesa de **2 huevos** + tomate  
-o
-- Tostadas con atún/pavo y tomate si prefieres reservar huevos.
+Después del desayuno:
+1. Revisar inventario real.
+2. Hacer la compra de fruta/verdura y supermercado.
+3. Planificar la nueva semana.
+4. Dejar previstas **lentejas con verduras y chorizo ibérico para el fin de semana**.
 
 ---
 
-## Domingo 4
-
-### 🌅 Desayuno
-- Tostadas: **70–90 g**
-- Queso crema: **20–25 g**
-- Pavo: **60–80 g**
-- Fruta
-- Café
-
-### 🍲 Comida
-- Segunda ración de lentejas si queda.
-- Si no, comida libre planificada con lo que haya quedado.
-
-### 🌙 Cena · Merluza con patata y verduras
-- Merluza: **180–220 g**
-- Patata: **200–250 g**
-- Cebolla: **60 g**
-- Zanahoria/pimiento: **100 g**
-- Aceite: **5–10 g**
-- Ajo, pimienta y sal
-
----
+## 📌 Nota para el viernes
+Cuando organicemos la semana siguiente, reservar una comida del fin de semana para **lentejas** y aprovechar uno de los chorizos ibéricos congelados.
 
 ## 📌 Accesos rápidos
 - [Lista de la compra](compra.md)
