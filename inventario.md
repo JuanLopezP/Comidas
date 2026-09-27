@@ -14,7 +14,7 @@
 - [ ] Pimiento verde — **1**
 - [ ] Cebollas — de sobra
 - [ ] Ajo — de sobra
-- [ ] Huevos — **3 antes de la tortilla del domingo; comprar 12**
+- [ ] Huevos — quedan pocos; **comprar 12 el lunes**
 - [ ] Fiambre de pavo — **1 bandeja entera**
 - [ ] Queso crema / Philadelphia — queda poco
 - [ ] Queso normal — **0**
@@ -46,6 +46,9 @@
 - Horno
 - Vitro
 - Airfryer disponible, pero no depender de ella
+
+## Preparado
+- [ ] Tortilla — **ya hecha para la cena del domingo 27**; no hay que cocinarla
 
 ## Reglas útiles
 - Martes y jueves: **CrossFit 8:30**.
