@@ -22,6 +22,7 @@ Queso rallado — 1 bolsa, 150–200 g
 Avecrem de pollo — 1 caja
 Chorizos pequeños — 1 paquete
 Merluza — 1 bandeja, unos 300–400 g
+Colorante alimentario para arroz — 1 bote o caja
 ```
 
 ## No comprar
