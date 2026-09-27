@@ -18,8 +18,8 @@
 |---|---|---|---|
 | **Lun 28** | Tostadas con pavo + fruta + café | 2 muslos en salsa + patata/tomate | Pasta con atún y tomate |
 | **Mar 29 · CrossFit** | ½–1 plátano antes · tostadas + huevos después | Caldillo de patatas con 2 muslos | Cena rápida de pavo + tomate |
-| **Mié 30** | Yogur + fruta + tostada | Arroz amarillo con 2 muslos y verduras | Cena ligera con pavo/atún |
-| **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Pasta con atún y tomate |
+| **Mié 30** | Yogur + fruta + tostada | Arroz amarillo con 2 muslos y verduras | Pasta con atún y tomate |
+| **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Tostadas completas de pavo + tomate |
 | **Vie 2** | Tostada con tomate + pavo | Pasta restante o arroz con pisto | Fajitas/quesadilla de pavo |
 | **Sáb 3** | Yogur + avena + plátano | — nueva planificación tras la compra — | — |
 
@@ -142,12 +142,15 @@ Elige una:
 5. Cocina el arroz.
 6. Incorpora el pollo en los últimos minutos para calentarlo sin resecarlo.
 
-### 🌙 Cena · Ligera
-- 2 tostadas pequeñas con pavo o atún
-- Tomate aliñado
-- Yogur o fruta si tienes hambre
+### 🌙 Cena · Pasta con atún y tomate
+- Pasta seca: **90–100 g**
+- Atún: **1 lata**
+- Tomate triturado: **100–120 g**
+- Cebolla: **50–70 g**
+- Queso rallado: **15–20 g** opcional
+- Aceite: **5 g**
 
-> Conviene cenar con algo de hidrato porque el jueves hay CrossFit, pero sin hacer otra receta grande.
+> Esta cena va a propósito con más hidratos para llegar con mejores reservas al CrossFit del jueves por la mañana, sin necesidad de desayunar mucho antes de entrenar.
 
 ---
 
@@ -169,12 +172,12 @@ Elige una:
 
 Descongélalo la noche anterior y caliéntalo.
 
-### 🌙 Cena · Pasta con atún y tomate
-- Pasta seca: **90–100 g**
-- Atún: **1 lata**
-- Tomate triturado: **100–120 g**
-- Cebolla: **50 g**
-- Queso rallado: **15–20 g** opcional
+### 🌙 Cena · Tostadas completas de pavo y tomate
+- Pan integral: **80–100 g**
+- Fiambre de pavo: **80–100 g**
+- Tomate: **1 unidad**
+- Queso crema: **15–20 g** opcional
+- 1 yogur o fruta si tienes hambre
 
 ---
 
