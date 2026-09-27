@@ -20,7 +20,7 @@
 | **Mar 29 · CrossFit** | ½–1 plátano antes · tostadas + huevos después | Caldillo de patatas con 2 muslos | Cena rápida de pavo + tomate |
 | **Mié 30** | Yogur + fruta + tostada | Arroz amarillo con 2 muslos y verduras | Pasta con atún y tomate |
 | **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Tostadas completas de pavo + tomate |
-| **Vie 2** | Tostada con tomate + pavo | Pasta restante o arroz con pisto | Fajitas/quesadilla de pavo |
+| **Vie 2** | Tostada con tomate + pavo | Arroz con pisto + 2 huevos | Fajitas/quesadilla de pavo |
 | **Sáb 3** | Yogur + avena + plátano | — nueva planificación tras la compra — | — |
 
 ## 🔔 Preparaciones clave
@@ -190,10 +190,20 @@ Descongélalo la noche anterior y caliéntalo.
 - 1 fruta
 - Café
 
-### 🍲 Comida
-- Segunda ración de pasta del jueves si hiciste doble cantidad  
-  **o**
-- Arroz con pisto: **80–100 g de arroz seco + 100–150 g de pisto**
+### 🍲 Comida · Arroz con pisto + huevos
+- Arroz seco: **80–100 g**
+- Pisto: **100–150 g**
+- Huevos: **2**
+- Zanahoria o calabacín: **80–100 g** opcional
+- Aceite: **5 g** si hace falta
+
+**Cómo hacerlo**
+1. Cuece el arroz.
+2. Calienta el pisto y añade la verdura si quieres aprovechar restos.
+3. Haz **2 huevos** a la plancha, cocidos o revueltos.
+4. Sirve los huevos sobre el arroz con pisto.
+
+> Así el viernes también tiene una fuente clara de proteína, sin depender otra vez de atún o queso.
 
 ### 🌙 Cena · Fajitas/quesadilla de pavo
 - Tortillas de trigo: **2**
