@@ -7,7 +7,7 @@
 - [ ] Chorizos ibéricos grandes — **2 unidades congeladas**
 
 ## 🧊 Nevera / fresco
-- [ ] Muslos de pollo — **6 pequeños**
+- [ ] Muslos de pollo en salsa — **6 pequeños, ya cocinados**; gastar lunes-martes-miércoles
 - [ ] Calabacín — **1**
 - [ ] Tomate — **1**
 - [ ] Zanahorias grandes — **4–5**
@@ -30,6 +30,7 @@
 - [ ] Sardinetas — queda stock
 - [ ] Tomate triturado — de sobra
 - [ ] Caldo de pollo en brick — hay stock
+- [ ] Colorante alimentario — **0**; comprar
 
 ## 🍚 Cereales / hidratos
 - [ ] Arroz seco — disponible
