@@ -1,66 +1,54 @@
 # 📦 Inventario
 
-> Estado actualizado el sábado 19 de septiembre tras hacer la empanada y comprar fruta/verdura.
+> Estado actualizado el domingo 27 de septiembre de 2026.
 
 ## ❄️ Congelador
-- [ ] Pavo — **300 g**, descongelado el domingo; cocinar hoy y pasar a nevera
-- [ ] Pollo de las fajitas — **200 g**
 - [ ] Cocido casero — **2 frascos**
-- [ ] Chorizos — **2 unidades**; usar 1 esta semana y congelar 1
+- [ ] Chorizos ibéricos grandes — **2 unidades congeladas**
 
 ## 🧊 Nevera / fresco
-- [ ] Calabacines — **2**
-- [ ] Tomates — **6 aprox.** (1 que quedaba + 5 comprados)
-- [ ] Patatas — **2 kg**
-- [ ] Cebollas — **1 kg**
-- [ ] Ajo — **1 cabeza**
-- [ ] Pimientos — **3**
-- [ ] Zanahorias — **3**
-- [ ] Plátanos — **6 aprox.** (3 que quedaban + 3 comprados)
-- [ ] Manzanas/peras/mandarinas — **6**
-- [ ] Cuña de queso — **1, sin empezar**
-- [ ] Queso rallado — **menos de 100 g**
-- [ ] Fiambre de pavo — **1 recipiente sin empezar**
-- [ ] Queso crema / Philadelphia — disponible
-- [ ] Huevos — **10**
-- [ ] Yogures — revisar cantidad
+- [ ] Muslos de pollo — **6 pequeños**
+- [ ] Calabacín — **1**
+- [ ] Tomate — **1**
+- [ ] Zanahorias grandes — **4–5**
+- [ ] Pimiento verde — **1**
+- [ ] Cebollas — de sobra
+- [ ] Ajo — de sobra
+- [ ] Huevos — **3 antes de la tortilla del domingo; comprar 12**
+- [ ] Fiambre de pavo — **1 bandeja entera**
+- [ ] Queso crema / Philadelphia — queda poco
+- [ ] Queso normal — **0**
+- [ ] Queso rallado — **0**
+- [ ] Yogures — **0**
+- [ ] Fruta — **0**
+- [ ] Pan — **0**
 
 ## 🥫 Conservas y frascos
-- [ ] Atún en aceite de girasol — **3 latas**
-- [ ] Atún con tomate — **6 latas**
-- [ ] Sardinetas en tomate — **2 latas**
-- [ ] Sardinetas en aceite de oliva — **2 latas**
-- [ ] Paté de hígado de cerdo — **3 latas**
-- [ ] Judías verdes cocidas — **2 frascos grandes**
-- [ ] Pisto con verduras — **0**
+- [ ] Pisto — **1 frasco grande**
 - [ ] Lentejas cocidas — **1 frasco grande**
+- [ ] Atún — queda stock
+- [ ] Sardinetas — queda stock
 - [ ] Tomate triturado — de sobra
-- [ ] Caldo de pollo — **2 bricks**
+- [ ] Caldo de pollo en brick — hay stock
 
 ## 🍚 Cereales / hidratos
-- [ ] Arroz blanco ya cocinado para calentar — **2 recipientes** (usar 1 el lunes)
-- [ ] Arroz seco — **~1 kg**
+- [ ] Arroz seco — disponible
 - [ ] Pasta — disponible
 - [ ] Fideos — disponibles
-- [ ] Tortillas de trigo para fajitas — quedan bastantes
-- [ ] Pan para tostadas — disponible
-- [ ] Masa de empanada — **0**
-- [ ] Avena — paquete prácticamente nuevo
-
-## 🥛 Otros
-- [ ] Leche — **6 bricks**
+- [ ] Tortillas de trigo — quedan
+- [ ] Avena — prácticamente nueva
 
 ## 🍳 Equipamiento útil
 - Batidora
-- Accesorio picador con cuchillas
+- Accesorio picador
 - Microondas
 - Horno
 - Vitro
-- Airfryer disponible, pero evitar depender de ella
+- Airfryer disponible, pero no depender de ella
 
-## Regla semanal
-1. Revisar congelador.
-2. Revisar frescos que puedan estropearse.
-3. Priorizar lo abierto y lo ya cocinado.
-4. Planificar primero con lo que ya existe.
-5. Comprar solo lo que falte para la semana siguiente.
+## Reglas útiles
+- Martes y jueves: **CrossFit 8:30**.
+- Antes de CrossFit: comida ligera; desayuno completo al volver.
+- Martes y fin de semana: principales días de cocina.
+- Entre semana: priorizar platos de 5–15 min.
+- Judías verdes: cuando se compren, **1 frasco = 2 raciones**.
