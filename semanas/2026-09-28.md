@@ -16,17 +16,19 @@
 
 | Día | Antes de entrenar / desayuno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Lun 28** | Tostadas con pavo + fruta + café | Arroz con atún y pisto | Pasta con atún y tomate |
-| **Mar 29 · CrossFit** | ½–1 plátano antes · tostadas + huevos después | Caldillo de patatas | Muslos al horno con patata y verduras |
-| **Mié 30** | Yogur + fruta + tostada | Caldillo restante | Arroz con pisto, atún y verduras |
-| **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Muslos de pollo + patata/verdura |
-| **Vie 2** | Tostada con tomate + pavo | Muslos restantes con arroz | Fajitas/quesadilla de pavo |
+| **Lun 28** | Tostadas con pavo + fruta + café | 2 muslos en salsa + patata/tomate | Pasta con atún y tomate |
+| **Mar 29 · CrossFit** | ½–1 plátano antes · tostadas + huevos después | Caldillo de patatas con 2 muslos | Cena rápida de pavo + tomate |
+| **Mié 30** | Yogur + fruta + tostada | Arroz amarillo con 2 muslos y verduras | Cena ligera con pavo/atún |
+| **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Pasta con atún y tomate |
+| **Vie 2** | Tostada con tomate + pavo | Pasta restante o arroz con pisto | Fajitas/quesadilla de pavo |
 | **Sáb 3** | Yogur + avena + plátano | Lentejas con verduras y chorizo ibérico | Cena ligera con tortilla/atún y tomate |
 | **Dom 4** | Tostadas + queso crema + fruta | Lentejas restantes o comida libre planificada | Merluza con patata y verduras |
 
 ## 🔔 Preparaciones clave
 
-- **Martes:** cocinar el **caldillo para 2 raciones** y hornear los **6 muslos de pollo** para resolver varias comidas.
+- **Muslos ya cocinados en salsa:** gastar los **6** entre lunes, martes y miércoles para no alargarlos demasiado.
+- **Martes:** cocinar el **caldillo** con 2 muslos y dejarlo listo para ese día.
+- **Miércoles:** hacer un arroz rápido tipo paella con los últimos 2 muslos y colorante.
 - **Miércoles noche:** usar arroz seco y pisto para una cena con buen aporte de hidratos antes del CrossFit del jueves.
 - **Sábado:** hacer las lentejas para **2–3 raciones**.
 
@@ -43,18 +45,18 @@
 - 1 pieza de fruta
 - Café con leche
 
-### 🍲 Comida · Arroz rápido con atún y pisto
-- Arroz seco: **90–100 g**
-- Atún con tomate o en aceite escurrido: **1 lata**
-- Pisto: **100–120 g**
-- Calabacín: **100 g** opcional
-- Aceite: **5 g** si hace falta
+### 🍲 Comida · Muslos en salsa con acompañamiento
+- Muslos de pollo ya cocinados: **2**
+- Patata cocida/asada: **250–300 g**  
+  o pan integral **70–90 g**
+- Tomate: **1 unidad**
+- Salsa de los muslos: la justa para acompañar
 
 **Cómo hacerlo**
-1. Cuece el arroz.
-2. Calienta el pisto en una sartén.
-3. Añade el atún y el calabacín si lo usas.
-4. Mezcla con el arroz.
+1. Calienta los muslos con su salsa a fuego suave o microondas.
+2. Acompaña con patata cocida/asada si tienes tiempo.
+3. Si vas justo, usa pan y tomate aliñado.
+4. No hace falta añadir más grasa porque la salsa ya aporta.
 
 ### 🌙 Cena · Pasta con atún y tomate
 - Pasta seca: **90–100 g**
@@ -82,17 +84,17 @@ Elige una:
 - 1 fruta
 - Café/leche
 
-### 🍲 Comida · Caldillo de patatas
-**Haz 2 raciones**
-- Patata: **550–650 g**
-- Chorizo pequeño: **80–100 g en total**
+### 🍲 Comida · Caldillo de patatas con 2 muslos
+- Muslos ya cocinados: **2**
+- Patata: **450–550 g**
+- Chorizo pequeño: **50–70 g**
 - Zanahoria: **100–150 g**
 - Cebolla: **100 g**
 - Ajo: **1–2 dientes**
 - Pimiento verde: **1**
 - Avecrem de pollo: **1 pastilla**
 - Agua: **700–900 ml**
-- Aceite: **10 g**
+- Aceite: **5–10 g**
 - Pimentón
 
 **Cómo hacerlo**
@@ -100,26 +102,17 @@ Elige una:
 2. Añade el chorizo en rodajas y dóralo ligeramente.
 3. Incorpora la patata chascada.
 4. Añade pimentón, agua y Avecrem.
-5. Cocina a fuego medio **25–30 min** hasta que la patata esté tierna.
-6. Guarda una ración para el miércoles.
+5. Cocina **20–25 min**.
+6. Añade los 2 muslos al final, deshuesados o enteros, y deja **5–10 min** más para que cojan sabor.
 
-### 🌙 Cena · Muslos de pollo al horno
-**Cocina los 6 muslos**
-- Muslos de pollo: **6**
-- Patata: **500–600 g**
-- Zanahoria: **150 g**
-- Cebolla: **100 g**
-- Aceite: **15 g para toda la bandeja**
-- Ajo, pimentón, pimienta, orégano y sal
+### 🌙 Cena · Tostadas completas de pavo y tomate
+- Pan integral: **80–100 g**
+- Fiambre de pavo: **80–100 g**
+- Tomate: **1 unidad**
+- Queso crema: **20 g** opcional
+- 1 fruta o yogur
 
-**Cómo hacerlo**
-1. Corta patata, zanahoria y cebolla.
-2. Mézclalas con aceite y especias.
-3. Hornea 15 min a unos 200 °C.
-4. Coloca encima los muslos sazonados.
-5. Hornea otros **30–40 min**, hasta que estén completamente hechos.
-6. Cena **2 muslos** con parte de la guarnición.
-7. Guarda **4 muslos** para jueves y viernes.
+> Después de CrossFit y caldillo al mediodía, una cena sencilla pero suficiente.
 
 ---
 
@@ -132,17 +125,29 @@ Elige una:
 - Queso crema: **15–20 g**
 - Café
 
-### 🍲 Comida
-- Segunda ración del **caldillo de patatas**.
-
-### 🌙 Cena · Arroz con pisto y atún
+### 🍲 Comida · Arroz amarillo con muslos y verduras
+- Muslos ya cocinados: **2**
 - Arroz seco: **90–100 g**
-- Pisto: **120–150 g**
-- Atún: **1 lata**
+- Pisto: **100–120 g**
 - Zanahoria o calabacín: **100 g**
-- Queso rallado: **10–15 g** opcional
+- Caldo o agua: **250–300 ml**
+- Colorante alimentario: una pizca
+- Pimentón opcional
 
-> Cena con hidratos suficiente porque el jueves hay CrossFit.
+**Cómo hacerlo**
+1. Retira el hueso de los muslos si quieres comerlo más cómodo.
+2. Sofríe ligeramente la verdura y el pisto.
+3. Añade el arroz y rehoga 1 min.
+4. Añade caldo/agua y una pizca de colorante.
+5. Cocina el arroz.
+6. Incorpora el pollo en los últimos minutos para calentarlo sin resecarlo.
+
+### 🌙 Cena · Ligera
+- 2 tostadas pequeñas con pavo o atún
+- Tomate aliñado
+- Yogur o fruta si tienes hambre
+
+> Conviene cenar con algo de hidrato porque el jueves hay CrossFit, pero sin hacer otra receta grande.
 
 ---
 
@@ -164,10 +169,12 @@ Elige una:
 
 Descongélalo la noche anterior y caliéntalo.
 
-### 🌙 Cena · Muslos con patata/verdura
-- Muslos ya cocinados: **2**
-- Guarnición de patata/verdura del martes: **250–300 g**
-- Tomate aliñado si apetece
+### 🌙 Cena · Pasta con atún y tomate
+- Pasta seca: **90–100 g**
+- Atún: **1 lata**
+- Tomate triturado: **100–120 g**
+- Cebolla: **50 g**
+- Queso rallado: **15–20 g** opcional
 
 ---
 
@@ -180,10 +187,10 @@ Descongélalo la noche anterior y caliéntalo.
 - 1 fruta
 - Café
 
-### 🍲 Comida · Muslos restantes con arroz
-- Muslos ya cocinados: **2**
-- Arroz seco: **80–100 g**
-- Verdura restante o pisto: **100–150 g**
+### 🍲 Comida
+- Segunda ración de pasta del jueves si hiciste doble cantidad  
+  **o**
+- Arroz con pisto: **80–100 g de arroz seco + 100–150 g de pisto**
 
 ### 🌙 Cena · Fajitas/quesadilla de pavo
 - Tortillas de trigo: **2**
