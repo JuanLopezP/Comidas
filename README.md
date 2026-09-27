@@ -1,311 +1,251 @@
 # 🍽️ Comidas
 
-## Semana actual · 19–26 septiembre 2026
+## Semana actual · 28 septiembre – 4 octubre 2026
 
-> Objetivo: comer variado, cocinar poco, reutilizar preparaciones, pesar cantidades al principio y comprar solo lo necesario.
+> Objetivo: comer variado, cocinar poco entre semana, aprovechar lo que ya hay en casa y concentrar la cocina más larga en martes y fin de semana.
 
 ## 🧭 Estrategia semanal
 
-- **Fin de semana:** cocinar las bases y preparaciones que más tiempo llevan y dejar varias raciones listas.
-- **Lunes:** comida muy rápida o ya preparada; evitar cocinar desde cero.
-- **Martes:** segundo día fuerte de cocina de la semana; aprovechar que hay más tiempo para una receta algo más elaborada y, si compensa, hacer 2–3 raciones.
-- **Miércoles a viernes:** priorizar recalentar, montar platos rápidos o usar bases preparadas el finde/martes.
-- **Objetivo práctico:** entre semana, salvo el martes, que la mayoría de comidas requieran **5–15 minutos reales de trabajo**.
-- **Regla de reutilización:** cocinar una base una vez y cambiar acompañamiento/salsa/proteína para no sentir que se come exactamente lo mismo.
-- **Compra del sábado:** planificar primero con congelador, nevera y sobras; comprar después solo lo que falte.
+- **Fin de semana:** cocinar bases y preparaciones largas cuando se pueda.
+- **Lunes:** comida/cena rápidas.
+- **Martes:** día fuerte de cocina: caldillo + muslos al horno para dejar varias raciones resueltas.
+- **Miércoles a viernes:** recalentar o montar platos en 5–15 min.
+- **CrossFit:** martes y jueves a las **8:30**. Antes, algo muy ligero; después, desayuno completo.
+- **Avena:** solo **1 desayuno esta semana** para meter más variedad.
+- **Judías verdes:** cuando vuelvan a entrar en compra, **1 frasco = 2 raciones**.
 
-
-| Día | 🌅 Desayuno | 🍲 Comida | 🌙 Cena |
+| Día | Antes de entrenar / desayuno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Sáb 19** | Yogur + avena + plátano + café | ✅ Empanada de atún y pisto | 🍴 Fuera |
-| **Dom 20** | Tostadas + queso crema + pavo + fruta | Sobras de la cena de fuera | 🍴 Fuera |
-| **Lun 21** | Yogur + avena + fruta + café | ⚡ Arroz rápido con pavo ya cocinado | Empanada + tomate |
-| **Mar 22** | Tostadas + queso crema + pavo + fruta | Pollo al horno con patata y verduras | Empanada restante o quesadilla si ya no queda |
-| **Mié 23** | Yogur + avena + fruta + café | ⚡ Arroz con atún, tomate y judías verdes | Pasta con atún, calabacín y queso |
-| **Jue 24** | Tostadas + huevos revueltos + fruta | Pasta restante | Merluza con patata y verduras |
-| **Vie 25** | Yogur + avena + plátano + café | Lentejas con verduras y un poco de chorizo | Quesadilla rápida de pavo y queso |
-| **Sáb 26** | Tostadas con queso crema y pavo + fruta | — nueva planificación — | — |
+| **Lun 28** | Tostadas con pavo + fruta + café | Arroz con atún y pisto | Pasta con atún y tomate |
+| **Mar 29 · CrossFit** | ½–1 plátano antes · tostadas + huevos después | Caldillo de patatas | Muslos al horno con patata y verduras |
+| **Mié 30** | Yogur + fruta + tostada | Caldillo restante | Arroz con pisto, atún y verduras |
+| **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Muslos de pollo + patata/verdura |
+| **Vie 2** | Tostada con tomate + pavo | Muslos restantes con arroz | Fajitas/quesadilla de pavo |
+| **Sáb 3** | Yogur + avena + plátano | Lentejas con verduras y chorizo ibérico | Cena ligera con tortilla/atún y tomate |
+| **Dom 4** | Tostadas + queso crema + fruta | Lentejas restantes o comida libre planificada | Merluza con patata y verduras |
 
 ## 🔔 Preparaciones clave
 
-- **Sábado:** ✅ empanada hecha. Se gastaron **3 latas de atún, 2 huevos, la masa y todo el pisto**.
-- **Domingo:** comer las sobras de la cena de fuera, cenar fuera y cocinar aparte los **300 g de pavo** para dejarlos listos para el lunes. La empanada pasa a lunes/martes.
-- **Lunes:** comida de **5 minutos** por la reunión: arroz ya cocinado + pavo preparado el domingo + tomate triturado. Cena con la empanada que quede.
-- **Miércoles:** gastar el segundo recipiente de arroz ya cocinado.
-- **Miércoles noche:** hacer **2 raciones de pasta** para dejar el jueves resuelto.
-- **Viernes:** hacer **2–3 raciones de lentejas**; guardar/congelar lo que sobre.
+- **Martes:** cocinar el **caldillo para 2 raciones** y hornear los **6 muslos de pollo** para resolver varias comidas.
+- **Miércoles noche:** usar arroz seco y pisto para una cena con buen aporte de hidratos antes del CrossFit del jueves.
+- **Sábado:** hacer las lentejas para **2–3 raciones**.
 
 ---
 
 # 📅 Día a día
 
-## Sábado 19
+## Lunes 28
 
 ### 🌅 Desayuno
-- Yogur alto en proteína o griego natural: **250 g**
-- Avena: **40–50 g**
-- Plátano: **1 unidad**
-- Café con un poco de leche
-
-### 🍲 Comida · ✅ Empanada de atún y pisto
-Cambio realizado porque el pavo seguía congelado.
-
-**Gastado**
-- Masa de empanada: **1 paquete**
-- Atún: **3 latas**
-- Huevos: **2**
-- Pisto: **todo el que quedaba**
-
-Si sobra empanada, guardar en nevera para la cena del domingo.
-
-### 🌙 Cena
-🍴 Fuera de casa.
-
----
-
-## Domingo 20
-
-### 🌅 Desayuno
-- Pan integral: **70–90 g**
-- Queso crema: **25–30 g**
+- Pan para tostadas: **70–90 g**
 - Fiambre de pavo: **60–80 g**
+- Tomate: **1/2 unidad**
 - 1 pieza de fruta
-- Café
+- Café con leche
 
-### 🍲 Comida · Sobras de la cena de fuera
-Hoy se aprovecha la comida que sobró de anoche. No hace falta añadir otra preparación salvo que la cantidad sea pequeña.
-
-### 👨‍🍳 Preparación para mañana · Pavo
-Como el pavo ya se ha descongelado, cocínalo hoy y déjalo listo para el lunes.
-
-- Pavo crudo: **300 g**
-- Cebolla: **60–80 g**
-- Calabacín: **100–150 g**
-- Aceite: **5–10 g**
-- Sal, pimienta, ajo en polvo y pimentón
+### 🍲 Comida · Arroz rápido con atún y pisto
+- Arroz seco: **90–100 g**
+- Atún con tomate o en aceite escurrido: **1 lata**
+- Pisto: **100–120 g**
+- Calabacín: **100 g** opcional
+- Aceite: **5 g** si hace falta
 
 **Cómo hacerlo**
-1. Corta cebolla y calabacín.
-2. Sofríe con el aceite durante 4–5 min.
-3. Añade los **300 g de pavo**.
-4. Sazona y cocina hasta que quede completamente hecho.
-5. Déjalo enfriar un poco y guárdalo en un táper en la nevera.
-6. Para mañana usa aproximadamente **180–200 g**; los **100–120 g restantes** pueden servir para una quesadilla u otra cena.
+1. Cuece el arroz.
+2. Calienta el pisto en una sartén.
+3. Añade el atún y el calabacín si lo usas.
+4. Mezcla con el arroz.
 
-> Guarda el pavo cocinado en la nevera en cuanto deje de estar muy caliente y úsalo prioritariamente en los próximos días.
-
-### 🌙 Cena
-🍴 Fuera de casa.
-
-> La empanada se conserva para el lunes. Si queda bastante después de cenar el lunes, termina el resto el martes por la noche.
-
----
-
-## Lunes 21 · reunión, comida rápida
-
-### 🌅 Desayuno
-- Yogur: **250 g**
-- Avena: **40–50 g**
-- Fruta: **1 pieza**
-- Café
-
-### ⚡ Comida · Arroz rápido con pavo
-**Tiempo: 4–6 min**
-- Arroz blanco ya cocinado: **200–250 g**
-- Pavo cocinado el domingo: **180–200 g**
-- Tomate triturado: **70–100 g**
-- Judías verdes cocidas: **100–150 g** opcionales
-- Queso: **15–20 g** opcional
-
-**Cómo hacerlo**
-1. Pon el arroz en un bol apto para microondas.
-2. Añade el pavo cocinado y el tomate triturado.
-3. Si quieres más volumen, añade judías verdes escurridas.
-4. Calienta 2–3 min, remueve y vuelve a calentar si hace falta.
-5. Añade queso al final si te apetece.
-
-> Está pensado para llegar de la reunión y comer prácticamente al momento.
-
-### 🌙 Cena · Empanada + tomate
-- Empanada preparada el sábado
-- Tomate: **1 unidad**
+### 🌙 Cena · Pasta con atún y tomate
+- Pasta seca: **90–100 g**
+- Atún: **1 lata**
+- Tomate triturado: **100–120 g**
+- Cebolla: **50–70 g**
+- Queso rallado: **15–20 g**
 - Aceite: **5 g**
-- Sal y orégano
 
-Come una ración normal. Si queda todavía una cantidad suficiente, guárdala para el martes por la noche.
+> Cena algo más completa de hidratos porque el martes hay CrossFit.
 
 ---
 
-## Martes 22
+## Martes 29 · CrossFit 8:30
 
-### 🌅 Desayuno
+### ⚡ Antes de CrossFit · 7:45–8:00
+Elige una:
+- **½–1 plátano + agua/café**, o
+- 1 tostada pequeña (**30–40 g**) con un poco de queso crema.
+
+### 🌅 Desayuno después de CrossFit
 - Pan integral: **70–90 g**
-- Queso crema: **25–30 g**
-- Fiambre de pavo: **60–80 g**
+- Huevos: **2**
+- Fiambre de pavo: **40–60 g**
 - 1 fruta
-- Café
+- Café/leche
 
-### 🍲 Comida · Pollo con patatas y verduras al horno
-- Pollo congelado: **200 g**
-- Patata: **250–300 g**
-- Calabacín: **150 g**
-- Pimiento: **100 g**
-- Cebolla: **70 g**
-- Aceite: **10 g**
-- Sal, pimienta, ajo en polvo y pimentón
-
-**Cómo hacerlo**
-1. Descongela el pollo la noche anterior en nevera.
-2. Corta patata y verduras en trozos pequeños.
-3. Mezcla todo menos el pollo con aceite y especias.
-4. Hornea a unos 200 °C durante 15–20 min.
-5. Añade el pollo y cocina otros 15–20 min hasta que esté completamente hecho.
-
-### 🌙 Cena · Empanada restante o quesadilla
-**Primera opción:** termina la empanada si todavía queda una ración.
-
-**Si ya no queda empanada, haz la quesadilla:**
-- Tortillas de trigo: **2**
-- Fiambre de pavo: **60–80 g**
-- Queso: **40–50 g**
-- Tomate triturado: **30–50 g**
-- Pimiento opcional
-
-1. Pon una tortilla en sartén.
-2. Añade una capa fina de tomate, pavo y queso.
-3. Cierra con otra tortilla o dóblala.
-4. Cocina a fuego medio por ambos lados hasta que el queso se funda.
-
----
-
-## Miércoles 23
-
-### 🌅 Desayuno
-- Yogur: **250 g**
-- Avena: **40–50 g**
-- 1 fruta
-- Café
-
-### ⚡ Comida · Arroz con atún, tomate y judías verdes
-- Segundo recipiente de arroz cocido: **200–250 g**
-- Atún con tomate: **1 lata**
-- Judías verdes cocidas: **150–200 g**
-- Queso de la cuña: **20–25 g** opcional
-
-**Cómo hacerlo**
-1. Escurre las judías verdes.
-2. Mezcla arroz + atún con tomate + judías.
-3. Calienta todo 2–3 min en microondas.
-4. Añade unas lascas de queso al final si te apetece.
-
-### 🌙 Cena · Pasta con atún, calabacín y queso
+### 🍲 Comida · Caldillo de patatas
 **Haz 2 raciones**
-- Pasta seca: **180–200 g**
-- Atún en aceite: **2 latas**, escurridas
-- Calabacín: **200 g**
+- Patata: **550–650 g**
+- Chorizo pequeño: **80–100 g en total**
+- Zanahoria: **100–150 g**
 - Cebolla: **100 g**
-- Tomate triturado: **180–200 g**
-- Queso: **40–50 g** en total
-- Aceite: **5–10 g**
+- Ajo: **1–2 dientes**
+- Pimiento verde: **1**
+- Avecrem de pollo: **1 pastilla**
+- Agua: **700–900 ml**
+- Aceite: **10 g**
+- Pimentón
 
 **Cómo hacerlo**
-1. Cuece toda la pasta.
-2. Sofríe cebolla y calabacín.
-3. Añade tomate/pisto y cocina 3–4 min.
-4. Incorpora el atún.
-5. Mezcla con la pasta.
-6. Divide en **2 recipientes iguales**.
-7. Come uno y guarda el otro para el jueves.
+1. Sofríe cebolla, ajo, pimiento y zanahoria.
+2. Añade el chorizo en rodajas y dóralo ligeramente.
+3. Incorpora la patata chascada.
+4. Añade pimentón, agua y Avecrem.
+5. Cocina a fuego medio **25–30 min** hasta que la patata esté tierna.
+6. Guarda una ración para el miércoles.
+
+### 🌙 Cena · Muslos de pollo al horno
+**Cocina los 6 muslos**
+- Muslos de pollo: **6**
+- Patata: **500–600 g**
+- Zanahoria: **150 g**
+- Cebolla: **100 g**
+- Aceite: **15 g para toda la bandeja**
+- Ajo, pimentón, pimienta, orégano y sal
+
+**Cómo hacerlo**
+1. Corta patata, zanahoria y cebolla.
+2. Mézclalas con aceite y especias.
+3. Hornea 15 min a unos 200 °C.
+4. Coloca encima los muslos sazonados.
+5. Hornea otros **30–40 min**, hasta que estén completamente hechos.
+6. Cena **2 muslos** con parte de la guarnición.
+7. Guarda **4 muslos** para jueves y viernes.
 
 ---
 
-## Jueves 24
+## Miércoles 30
 
 ### 🌅 Desayuno
-- Pan integral: **70–90 g**
-- Huevos revueltos: **2**
+- Yogur alto en proteína: **200–250 g**
 - 1 fruta
+- Pan tostado: **40–60 g**
+- Queso crema: **15–20 g**
 - Café
 
 ### 🍲 Comida
-- Segunda ración de pasta del miércoles.
+- Segunda ración del **caldillo de patatas**.
+
+### 🌙 Cena · Arroz con pisto y atún
+- Arroz seco: **90–100 g**
+- Pisto: **120–150 g**
+- Atún: **1 lata**
+- Zanahoria o calabacín: **100 g**
+- Queso rallado: **10–15 g** opcional
+
+> Cena con hidratos suficiente porque el jueves hay CrossFit.
+
+---
+
+## Jueves 1 · CrossFit 8:30
+
+### ⚡ Antes de CrossFit
+- **½–1 plátano**
+- Agua
+- Café si te apetece
+
+### 🌅 Desayuno después
+- Yogur alto en proteína: **200–250 g**
+- Pan integral: **70–90 g**
+- Fiambre de pavo: **60–80 g**
+- 1 fruta adicional si tienes hambre
+
+### 🍲 Comida · Cocido rápido
+- Cocido congelado: **1 frasco**
+
+Descongélalo la noche anterior y caliéntalo.
+
+### 🌙 Cena · Muslos con patata/verdura
+- Muslos ya cocinados: **2**
+- Guarnición de patata/verdura del martes: **250–300 g**
+- Tomate aliñado si apetece
+
+---
+
+## Viernes 2
+
+### 🌅 Desayuno
+- Pan integral: **70–90 g**
+- Tomate triturado o fresco
+- Fiambre de pavo: **60–80 g**
+- 1 fruta
+- Café
+
+### 🍲 Comida · Muslos restantes con arroz
+- Muslos ya cocinados: **2**
+- Arroz seco: **80–100 g**
+- Verdura restante o pisto: **100–150 g**
+
+### 🌙 Cena · Fajitas/quesadilla de pavo
+- Tortillas de trigo: **2**
+- Fiambre de pavo: **70–90 g**
+- Queso rallado: **30–40 g**
+- Tomate triturado: **40–60 g**
+- Cebolla/pimiento opcional
+
+---
+
+## Sábado 3
+
+### 🌅 Desayuno · único día de avena
+- Yogur: **200–250 g**
+- Avena: **40–50 g**
+- Plátano: **1**
+- Café
+
+### 🍲 Comida · Lentejas con verduras y chorizo ibérico
+**Haz 2–3 raciones**
+- Lentejas cocidas: **1 frasco grande**
+- Chorizo ibérico congelado: **40–60 g**
+- Zanahoria: **100 g**
+- Cebolla: **100 g**
+- Ajo: **1 diente**
+- Tomate triturado: **150–200 g**
+- Calabacín: lo que quede
+- Caldo/agua: **250–350 ml**
+- Aceite: **10 g**
+- Pimentón
+
+### 🌙 Cena
+- Tortilla francesa de **2 huevos** + tomate  
+o
+- Tostadas con atún/pavo y tomate si prefieres reservar huevos.
+
+---
+
+## Domingo 4
+
+### 🌅 Desayuno
+- Tostadas: **70–90 g**
+- Queso crema: **20–25 g**
+- Pavo: **60–80 g**
+- Fruta
+- Café
+
+### 🍲 Comida
+- Segunda ración de lentejas si queda.
+- Si no, comida libre planificada con lo que haya quedado.
 
 ### 🌙 Cena · Merluza con patata y verduras
 - Merluza: **180–220 g**
 - Patata: **200–250 g**
 - Cebolla: **60 g**
-- Pimiento: **80–100 g**
+- Zanahoria/pimiento: **100 g**
 - Aceite: **5–10 g**
 - Ajo, pimienta y sal
-
-**Cómo hacerlo**
-1. Corta la patata fina y cocínala primero 5–7 min en microondas.
-2. Pon patata, cebolla y pimiento en una fuente.
-3. Hornea unos 10–15 min.
-4. Coloca la merluza encima, sazona y añade un poco de aceite.
-5. Hornea hasta que la merluza esté hecha y se separe fácilmente en lascas.
-
----
-
-## Viernes 25
-
-### 🌅 Desayuno
-- Yogur: **250 g**
-- Avena: **40–50 g**
-- Plátano: **1**
-- Café
-
-### 🍲 Comida · Lentejas con verduras y chorizo
-**Haz 2–3 raciones**
-- Lentejas cocidas escurridas: **500–600 g**
-- Cebolla: **100 g**
-- Zanahoria: **100 g**
-- Pimiento: **100 g**
-- Calabacín: **150 g**
-- Ajo: **1 diente**
-- Tomate triturado: **150–200 g**
-- Chorizo: **40–60 g** para toda la olla
-- Caldo/agua: **250–350 ml**
-- Aceite: **10 g**
-- Pimentón
-
-**Cómo hacerlo**
-1. Pica cebolla, zanahoria, pimiento, calabacín y ajo.
-2. Sofríe con el aceite 6–8 min.
-3. Añade pimentón y tomate/pisto.
-4. Añade el chorizo cortado pequeño.
-5. Incorpora lentejas y caldo.
-6. Cocina 15 min a fuego medio.
-7. Divide en **2–3 raciones**. Congela una si no la vas a comer en los siguientes días.
-
-### 🌙 Cena · Quesadilla rápida
-- Tortillas de trigo: **2**
-- Fiambre de pavo: **60–80 g**
-- Queso: **40–50 g**
-- Tomate triturado: **30–50 g**
-- Pimiento opcional
-
-**Cómo hacerlo**
-1. Pon una tortilla en sartén.
-2. Añade una capa fina de pisto, pavo y queso.
-3. Cierra con otra tortilla o dóblala.
-4. Cocina a fuego medio por ambos lados hasta que el queso se funda.
-
----
-
-## Sábado 26 por la mañana
-
-### 🌅 Desayuno
-- Tostadas con queso crema y pavo + fruta + café  
-**o**
-- Yogur + avena + fruta si queda.
-
-Después: revisar [inventario](inventario.md), planificar la nueva semana y regenerar [compra](compra.md).
 
 ---
 
 ## 📌 Accesos rápidos
-- [Plan archivado de esta semana](semanas/2026-09-19.md)
 - [Lista de la compra](compra.md)
 - [Inventario](inventario.md)
 - [Recetas](recetas/)
