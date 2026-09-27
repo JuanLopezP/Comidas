@@ -23,6 +23,7 @@ Avecrem de pollo — 1 caja
 Chorizos pequeños — 1 paquete
 Merluza — 1 bandeja, unos 300–400 g
 Colorante alimentario para arroz — 1 bote o caja
+Atún en conserva — 6 latas
 ```
 
 ## No comprar
