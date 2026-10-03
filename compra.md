@@ -1,37 +1,36 @@
-# 🛒 Compra · lunes 28 septiembre
+# 🛒 Compra · sábado 3 octubre
 
 > Copia cada bloque directamente al Atajo del iPhone.
 
 ## Frutería
 ```text
-Plátanos — 7 unidades
+Plátanos — 6 unidades
 Manzanas, peras o mandarinas — 6 unidades
-Tomates — 5 unidades
-Patatas — 2 kg
+Limones — 2 unidades
 ```
 
-> Ya hay 1 calabacín, 1 tomate, 4–5 zanahorias grandes, 1 pimiento verde y cebolla/ajo de sobra.
+> No comprar más patatas, zanahorias, cebollas, ajo, calabacín ni tomates esta semana salvo que al revisar veas que alguno está estropeado.
 
 ## Supermercado
 ```text
-Huevos — 12
+Fiambre de pavo — 2 bandejas
+Yogures altos en proteína o Skyr — 6 unidades
 Pan integral para tostadas — 1 paquete o barra
-Queso crema tipo Philadelphia — 1 tarrina
-Yogures altos en proteína, Skyr o griego natural — 6 unidades
-Queso rallado — 1 bolsa, 150–200 g
-Avecrem de pollo — 1 caja
-Chorizos pequeños — 1 paquete
-Merluza — 1 bandeja, unos 300–400 g
-Colorante alimentario para arroz — 1 bote o caja
-Atún en conserva — 6 latas
+Muesli sin mucho azúcar — 1 paquete
+Salmón fresco — 1 ración, unos 180–200 g
+Dorada limpia — 1 pieza de unos 250–350 g
+Alioli — 1 bote pequeño
 ```
 
+## Atún
+Con **3 latas normales + las latas de atún con tomate** hay suficiente para esta semana, así que no hace falta comprar más todavía.
+
 ## No comprar
-- Pollo: hay 6 muslos para gastar.
-- Fiambre de pavo: queda una bandeja entera.
-- Queso normal: esta semana se evita comprar.
-- Arroz, pasta, fideos, tortillas y avena: hay en casa.
-- Lentejas: queda 1 frasco grande.
-- Pisto: queda 1 frasco grande.
-- Tomate triturado: hay de sobra.
-- Cebolla, ajo, zanahorias, pimiento verde y calabacín: hay en casa.
+- Huevos: quedan **9**.
+- Lentejas: queda **1 frasco grande**.
+- Judías verdes: queda **1 frasco**.
+- Tomate frito: queda **1 frasco**.
+- Patatas: hay que gastarlas.
+- Zanahorias: se reservan para las lentejas.
+- Arroz, pasta, tortillas y avena: disponibles.
+- Cebolla y ajo: de sobra.
