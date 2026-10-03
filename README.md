@@ -1,160 +1,183 @@
 # 🍽️ Comidas
 
-## Semana actual · 28 septiembre – 4 octubre 2026
+## Semana actual · 4–10 octubre 2026
 
-> Objetivo: comer variado, cocinar poco entre semana, aprovechar lo que ya hay en casa y concentrar la cocina más larga en martes y fin de semana.
+> Objetivo: seguir favoreciendo recomposición corporal: suficiente proteína y energía para CrossFit, variedad en desayunos, verduras/fruta a diario y cocina concentrada en domingo/martes.
 
 ## 🧭 Estrategia semanal
 
-- **Fin de semana:** cocinar bases y preparaciones largas cuando se pueda.
-- **Lunes:** comida/cena rápidas.
-- **Martes:** día fuerte de cocina: caldillo + muslos al horno para dejar varias raciones resueltas.
-- **Miércoles a viernes:** recalentar o montar platos en 5–15 min.
-- **CrossFit:** martes y jueves a las **8:30**. Antes, algo muy ligero; después, desayuno completo.
-- **Avena:** solo **1 desayuno esta semana** para meter más variedad.
-- **Judías verdes:** cuando vuelvan a entrar en compra, **1 frasco = 2 raciones**.
+- **Domingo:** hacer lentejas para domingo + lunes y preparar una tortilla española pequeña para 2 cenas.
+- **Martes y jueves:** CrossFit a las **8:30**. Antes, algo ligero; desayuno completo al volver.
+- **Martes:** día con más margen para cocinar.
+- **Miércoles noche:** cena con hidratos suficiente para llegar bien al CrossFit del jueves.
+- **Pescado:** meter **salmón** y **dorada** esta semana.
+- **Patatas:** darles salida durante la semana antes de que se estropeen.
+- **Judías verdes:** el frasco se divide en **2 raciones**.
+- **Sábado:** solo se planifica hasta el desayuno; después, inventario + compra + nueva semana.
 
-| Día | Antes de entrenar / desayuno | 🍲 Comida | 🌙 Cena |
+| Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Lun 28** | Tostadas con pavo + fruta + café | 2 muslos en salsa + patata/tomate | Pasta con atún y tomate |
-| **Mar 29 · CrossFit** | ½–1 plátano antes · tostadas + huevos después | Caldillo de patatas con 2 muslos | Cena rápida de pavo + tomate |
-| **Mié 30** | Yogur + fruta + tostada | Arroz amarillo con 2 muslos y verduras | Pasta con atún y tomate |
-| **Jue 1 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | Tostadas completas de pavo + tomate |
-| **Vie 2** | Tostada con tomate + pavo | Arroz con pisto + 2 huevos | Fajitas/quesadilla de pavo |
-| **Sáb 3** | Yogur + avena + plátano | — nueva planificación tras la compra — | — |
+| **Dom 4** | Tostadas con pavo + tomate + fruta | Lentejas con verduras y chorizo | 1/2 tortilla española + tomate |
+| **Lun 5** | Yogur + fruta + muesli | Lentejas restantes | Salmón + patata + 1/2 frasco judías verdes |
+| **Mar 6 · CrossFit** | ½–1 plátano antes · tostadas + pavo + yogur después | Patatas alioli + atún + tomate | 1/2 tortilla española + tomate |
+| **Mié 7** | Huevos revueltos + tostada + fruta | Arroz con atún con tomate y calabacín | Pasta con atún y tomate frito |
+| **Jue 8 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | 1/2 frasco judías verdes + patata + 2 huevos |
+| **Vie 9** | Tostada con tomate + pavo + fruta | Dorada + patata + verduras | Wrap/fajita de pavo y tomate |
+| **Sáb 10** | Yogur + fruta + muesli | — nueva planificación — | — |
 
 ## 🔔 Preparaciones clave
 
-- **Muslos ya cocinados en salsa:** gastar los **6** entre lunes, martes y miércoles para no alargarlos demasiado.
-- **Martes:** cocinar el **caldillo** con 2 muslos y dejarlo listo para ese día.
-- **Miércoles:** hacer un arroz rápido tipo paella con los últimos 2 muslos y colorante.
-- **Miércoles noche:** usar arroz seco y pisto para una cena con buen aporte de hidratos antes del CrossFit del jueves.
-- **Viernes:** revisar inventario y preparar la planificación de la semana siguiente.
-- **Próximo fin de semana:** incluir **lentejas con verduras y chorizo ibérico** como una de las preparaciones principales.
+- **Domingo:** lentejas para **2 raciones** y tortilla para **2 cenas**.
+- **Lunes:** usar media jarra de judías verdes con el salmón.
+- **Martes:** hacer las patatas alioli con una cantidad medida de salsa.
+- **Miércoles:** pasta + atún por la noche para cargar hidratos antes del CrossFit del jueves.
+- **Jueves:** terminar el frasco de judías verdes.
+- **Dorada:** si la compras el sábado, **congélala ese mismo día** y pásala a la nevera el jueves por la noche para comerla el viernes.
 
 ---
 
 # 📅 Día a día
 
-## Lunes 28
+## Domingo 4
 
 ### 🌅 Desayuno
-- Pan para tostadas: **70–90 g**
+- Pan integral: **70–90 g**
 - Fiambre de pavo: **60–80 g**
-- Tomate: **1/2 unidad**
+- Tomate: **1/2–1 unidad**
 - 1 pieza de fruta
 - Café con leche
 
-### 🍲 Comida · Muslos en salsa con acompañamiento
-- Muslos de pollo ya cocinados: **2**
-- Patata cocida/asada: **250–300 g**  
-  o pan integral **70–90 g**
-- Tomate: **1 unidad**
-- Salsa de los muslos: la justa para acompañar
-
-**Cómo hacerlo**
-1. Calienta los muslos con su salsa a fuego suave o microondas.
-2. Acompaña con patata cocida/asada si tienes tiempo.
-3. Si vas justo, usa pan y tomate aliñado.
-4. No hace falta añadir más grasa porque la salsa ya aporta.
-
-### 🌙 Cena · Pasta con atún y tomate
-- Pasta seca: **90–100 g**
-- Atún: **1 lata**
-- Tomate triturado: **100–120 g**
-- Cebolla: **50–70 g**
-- Queso rallado: **15–20 g**
-- Aceite: **5 g**
-
-> Cena algo más completa de hidratos porque el martes hay CrossFit.
-
----
-
-## Martes 29 · CrossFit 8:30
-
-### ⚡ Antes de CrossFit · 7:45–8:00
-Elige una:
-- **½–1 plátano + agua/café**, o
-- 1 tostada pequeña (**30–40 g**) con un poco de queso crema.
-
-### 🌅 Desayuno después de CrossFit
-- Pan integral: **70–90 g**
-- Huevos: **2**
-- Fiambre de pavo: **40–60 g**
-- 1 fruta
-- Café/leche
-
-### 🍲 Comida · Caldillo de patatas con 2 muslos
-- Muslos ya cocinados: **2**
-- Patata: **450–550 g**
-- Chorizo pequeño: **50–70 g**
+### 🍲 Comida · Lentejas con verduras y chorizo
+**Haz 2 raciones**
+- Lentejas cocidas: **1 frasco grande**
+- Chorizo ibérico congelado: **40–60 g**
 - Zanahoria: **100–150 g**
 - Cebolla: **100 g**
-- Ajo: **1–2 dientes**
-- Pimiento verde: **1**
-- Avecrem de pollo: **1 pastilla**
-- Agua: **700–900 ml**
-- Aceite: **5–10 g**
+- Ajo: **1 diente**
+- Tomate frito: **100–150 g**
+- Calabacín: **100–150 g**
+- Caldo/agua: **250–350 ml**
+- Aceite: **10 g**
 - Pimentón
 
 **Cómo hacerlo**
-1. Sofríe cebolla, ajo, pimiento y zanahoria.
-2. Añade el chorizo en rodajas y dóralo ligeramente.
-3. Incorpora la patata chascada.
-4. Añade pimentón, agua y Avecrem.
-5. Cocina **20–25 min**.
-6. Añade los 2 muslos al final, deshuesados o enteros, y deja **5–10 min** más para que cojan sabor.
+1. Sofríe cebolla, ajo, zanahoria y calabacín.
+2. Añade el chorizo en trozos pequeños.
+3. Añade tomate frito y pimentón.
+4. Incorpora lentejas y caldo.
+5. Cocina unos **15 min**.
+6. Come una ración y guarda la otra para el lunes.
 
-### 🌙 Cena · Tostadas completas de pavo y tomate
-- Pan integral: **80–100 g**
-- Fiambre de pavo: **80–100 g**
-- Tomate: **1 unidad**
-- Queso crema: **20 g** opcional
-- 1 fruta o yogur
+### 🌙 Cena · Tortilla española
+**Haz 2 cenas**
+- Patata: **400–450 g**
+- Huevos: **4**
+- Cebolla: **80–100 g**
+- Aceite: **10–15 g**
+- Tomate: **1 unidad** para acompañar
 
-> Después de CrossFit y caldillo al mediodía, una cena sencilla pero suficiente.
+**Atajo**
+1. Corta la patata fina y cocínala primero en microondas **6–8 min**.
+2. Termínala en sartén con la cebolla y el aceite.
+3. Mezcla con los 4 huevos batidos.
+4. Cuaja la tortilla.
+5. Come **la mitad** y guarda la otra mitad para el martes.
 
 ---
 
-## Miércoles 30
+## Lunes 5
 
-### 🌅 Desayuno
-- Yogur alto en proteína: **200–250 g**
-- 1 fruta
-- Pan tostado: **40–60 g**
-- Queso crema: **15–20 g**
+### 🌅 Desayuno · Yogur + fruta + muesli
+- Yogur alto en proteína o Skyr: **200–250 g**
+- Muesli sin mucho azúcar: **35–45 g**
+- 1 pieza de fruta
 - Café
 
-### 🍲 Comida · Arroz amarillo con muslos y verduras
-- Muslos ya cocinados: **2**
-- Arroz seco: **90–100 g**
-- Pisto: **100–120 g**
-- Zanahoria o calabacín: **100 g**
-- Caldo o agua: **250–300 ml**
-- Colorante alimentario: una pizca
-- Pimentón opcional
+### 🍲 Comida
+- Segunda ración de **lentejas** del domingo.
+
+### 🌙 Cena · Salmón con patata y judías verdes
+- Salmón: **180–200 g**
+- Patata: **220–250 g**
+- Judías verdes: **1/2 frasco**
+- Limón: unas gotas
+- Aceite: **5 g**
+- Sal, ajo y pimienta
 
 **Cómo hacerlo**
-1. Retira el hueso de los muslos si quieres comerlo más cómodo.
-2. Sofríe ligeramente la verdura y el pisto.
-3. Añade el arroz y rehoga 1 min.
-4. Añade caldo/agua y una pizca de colorante.
-5. Cocina el arroz.
-6. Incorpora el pollo en los últimos minutos para calentarlo sin resecarlo.
+1. Cuece o asa la patata.
+2. Calienta y escurre medio frasco de judías.
+3. Cocina el salmón a la plancha/horno.
+4. Sirve con limón y la cantidad medida de aceite.
+
+---
+
+## Martes 6 · CrossFit 8:30
+
+### ⚡ Antes de CrossFit
+- **½–1 plátano**
+- Agua
+- Café si te apetece
+
+### 🌅 Desayuno después
+- Pan integral: **70–90 g**
+- Fiambre de pavo: **70–80 g**
+- Yogur alto en proteína: **150–200 g**
+- 1 fruta si tienes hambre
+
+### 🍲 Comida · Patatas alioli con atún
+- Patata: **300–350 g**
+- Atún en conserva: **1 lata**
+- Tomate: **1 unidad**
+- Alioli: **15–20 g**
+- Cebolla o perejil opcional
+
+**Cómo hacerlo**
+1. Cuece la patata y déjala templar.
+2. Mézclala con **15–20 g de alioli**, sin cubrirla en exceso.
+3. Añade el atún escurrido.
+4. Acompaña con tomate.
+
+### 🌙 Cena
+- Segunda mitad de la **tortilla española**.
+- Tomate aliñado.
+- Yogur o fruta si después del entrenamiento tienes más hambre.
+
+---
+
+## Miércoles 7
+
+### 🌅 Desayuno · Huevos + tostada
+- Huevos: **2**
+- Pan integral: **60–80 g**
+- 1 pieza de fruta
+- Café con leche
+
+### 🍲 Comida · Arroz con atún con tomate y calabacín
+- Arroz seco: **90–100 g**
+- Atún con tomate: **1 lata**
+- Calabacín: **100–150 g**
+- Cebolla: **50–70 g**
+- Aceite: **5 g**
+
+**Cómo hacerlo**
+1. Cuece el arroz.
+2. Saltea cebolla y calabacín.
+3. Añade el atún con tomate.
+4. Mezcla con el arroz.
 
 ### 🌙 Cena · Pasta con atún y tomate
 - Pasta seca: **90–100 g**
-- Atún: **1 lata**
-- Tomate triturado: **100–120 g**
-- Cebolla: **50–70 g**
-- Queso rallado: **15–20 g** opcional
+- Atún en conserva: **1 lata**
+- Tomate frito: **100–120 g**
+- Cebolla: **50 g**
 - Aceite: **5 g**
 
-> Esta cena va a propósito con más hidratos para llegar con mejores reservas al CrossFit del jueves por la mañana, sin necesidad de desayunar mucho antes de entrenar.
+> Cena deliberadamente con hidratos para llegar bien al CrossFit del jueves.
 
 ---
 
-## Jueves 1 · CrossFit 8:30
+## Jueves 8 · CrossFit 8:30
 
 ### ⚡ Antes de CrossFit
 - **½–1 plátano**
@@ -165,73 +188,71 @@ Elige una:
 - Yogur alto en proteína: **200–250 g**
 - Pan integral: **70–90 g**
 - Fiambre de pavo: **60–80 g**
-- 1 fruta adicional si tienes hambre
+- 1 pieza de fruta
 
 ### 🍲 Comida · Cocido rápido
 - Cocido congelado: **1 frasco**
 
-Descongélalo la noche anterior y caliéntalo.
+Pásalo a la nevera el miércoles por la noche y caliéntalo bien el jueves.
 
-### 🌙 Cena · Tostadas completas de pavo y tomate
-- Pan integral: **80–100 g**
-- Fiambre de pavo: **80–100 g**
-- Tomate: **1 unidad**
-- Queso crema: **15–20 g** opcional
-- 1 yogur o fruta si tienes hambre
+### 🌙 Cena · Judías verdes, patata y huevo
+- Judías verdes: **1/2 frasco restante**
+- Patata: **180–220 g**
+- Huevos: **2**
+- Tomate: **1/2–1 unidad**
+- Aceite: **5 g**
+
+**Cómo hacerlo**
+1. Cuece o cocina la patata en microondas.
+2. Calienta las judías.
+3. Haz 2 huevos cocidos, revueltos o a la plancha.
+4. Junta todo con tomate.
 
 ---
 
-## Viernes 2
+## Viernes 9
 
 ### 🌅 Desayuno
 - Pan integral: **70–90 g**
-- Tomate triturado o fresco
+- Tomate: **1/2 unidad**
 - Fiambre de pavo: **60–80 g**
+- 1 pieza de fruta
+- Café
+
+### 🍲 Comida · Dorada con patata y verduras
+- Dorada limpia: **1 pieza/ración, 250–350 g con espinas**
+- Patata: **220–250 g**
+- Cebolla: **60 g**
+- Tomate o verdura restante: **100–150 g**
+- Aceite: **5–10 g**
+- Ajo, limón, sal y pimienta
+
+**Cómo hacerlo**
+1. Pon patata y cebolla finas en horno o microondas primero.
+2. Añade la dorada.
+3. Sazona con ajo, limón y aceite.
+4. Cocina hasta que la carne se separe fácilmente de la espina.
+
+### 🌙 Cena · Wrap de pavo
+- Tortillas de trigo: **2**
+- Fiambre de pavo: **70–90 g**
+- Tomate: **50–80 g**
+- Queso crema: **15–20 g** opcional
+- Cebolla opcional
+
+---
+
+## Sábado 10
+
+### 🌅 Desayuno
+- Yogur alto en proteína: **200–250 g**
+- Muesli: **35–45 g**
 - 1 fruta
 - Café
 
-### 🍲 Comida · Arroz con pisto + huevos
-- Arroz seco: **80–100 g**
-- Pisto: **100–150 g**
-- Huevos: **2**
-- Zanahoria o calabacín: **80–100 g** opcional
-- Aceite: **5 g** si hace falta
-
-**Cómo hacerlo**
-1. Cuece el arroz.
-2. Calienta el pisto y añade la verdura si quieres aprovechar restos.
-3. Haz **2 huevos** a la plancha, cocidos o revueltos.
-4. Sirve los huevos sobre el arroz con pisto.
-
-> Así el viernes también tiene una fuente clara de proteína, sin depender otra vez de atún o queso.
-
-### 🌙 Cena · Fajitas/quesadilla de pavo
-- Tortillas de trigo: **2**
-- Fiambre de pavo: **70–90 g**
-- Queso rallado: **30–40 g**
-- Tomate triturado: **40–60 g**
-- Cebolla/pimiento opcional
+Después: revisar inventario, planificar la semana siguiente y hacer la nueva compra.
 
 ---
-
-## Sábado 3
-
-### 🌅 Desayuno · único día de avena
-- Yogur: **200–250 g**
-- Avena: **40–50 g**
-- Plátano: **1**
-- Café
-
-Después del desayuno:
-1. Revisar inventario real.
-2. Hacer la compra de fruta/verdura y supermercado.
-3. Planificar la nueva semana.
-4. Dejar previstas **lentejas con verduras y chorizo ibérico para el fin de semana**.
-
----
-
-## 📌 Nota para el viernes
-Cuando organicemos la semana siguiente, reservar una comida del fin de semana para **lentejas** y aprovechar uno de los chorizos ibéricos congelados.
 
 ## 📌 Accesos rápidos
 - [Lista de la compra](compra.md)
