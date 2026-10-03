@@ -1,11 +1,12 @@
 # 🍽️ Comidas
 
-## Semana actual · 4–10 octubre 2026
+## Semana actual · 3–10 octubre 2026
 
 > Objetivo: recomposición corporal, buena energía para CrossFit, más variedad en desayunos y cocina larga concentrada en domingo/martes.
 
 | Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
+| **Sáb 3 · Ciclismo** | Desayuno habitual | Arroz con atún, tomate y calabacín | 🍴 Fuera |
 | **Dom 4** | Tostadas con pavo + tomate + fruta | Lentejas con verduras y chorizo | 1/2 tortilla española + tomate |
 | **Lun 5** | Yogur + fruta + muesli | Lentejas restantes | Salmón + patata + 1/2 frasco judías verdes |
 | **Mar 6 · CrossFit** | ½–1 plátano antes · tostadas + pavo + yogur después | Patatas alioli + atún + tomate | 1/2 tortilla española + tomate |
@@ -23,6 +24,37 @@
 - **Patatas:** darles salida esta semana.
 - **Dorada:** si se compra el sábado, congelar y pasar a nevera el jueves por la noche.
 - **Sábado:** planificar solo hasta el desayuno y después rehacer inventario/compra.
+
+---
+
+## Sábado 3 · Ruta de ciclismo por la tarde
+
+### Comida · Arroz fuerte pero fácil de digerir
+- Arroz seco: **100–110 g**
+- Atún en conserva: **1 lata**
+- Tomate frito: **100–120 g**
+- Calabacín: **100–150 g**
+- Cebolla: **40–60 g**
+- Aceite: **5 g**
+- 1 pieza de fruta después si ya has hecho la compra
+
+**Cómo hacerlo**
+1. Cuece el arroz.
+2. Saltea cebolla y calabacín con el aceite.
+3. Añade tomate frito y el atún escurrido.
+4. Mezcla con el arroz.
+
+> La idea es llegar a la ruta con buenas reservas de hidratos, proteína suficiente y sin una comida excesivamente grasa o pesada. Intenta comerla **2–3 horas antes de salir**.
+
+### Antes de salir en bici
+Si han pasado más de 2–3 horas desde la comida o notas hambre:
+- **1 plátano** o
+- una tostada pequeña con pavo.
+
+Lleva agua; si la ruta va a ser larga, lleva también algo de hidrato fácil de tomar durante la salida.
+
+### Cena
+🍴 Fuera de casa.
 
 ---
 
