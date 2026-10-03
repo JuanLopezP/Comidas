@@ -1,58 +1,38 @@
 # 📦 Inventario
 
-> Estado actualizado el domingo 27 de septiembre de 2026.
+> Estado actualizado el sábado 3 de octubre de 2026.
 
 ## ❄️ Congelador
 - [ ] Cocido casero — **2 frascos**
 - [ ] Chorizos ibéricos grandes — **2 unidades congeladas**
 
 ## 🧊 Nevera / fresco
-- [ ] Muslos de pollo en salsa — **6 pequeños, ya cocinados**; gastar lunes-martes-miércoles
+- [ ] Patatas — quedan; **dar salida esta semana**
 - [ ] Calabacín — **1**
-- [ ] Tomate — **1**
-- [ ] Zanahorias grandes — **4–5**
-- [ ] Pimiento verde — **1**
+- [ ] Tomates — **4**
+- [ ] Zanahorias — quedan para las lentejas
 - [ ] Cebollas — de sobra
 - [ ] Ajo — de sobra
-- [ ] Huevos — quedan pocos; **comprar 12 el lunes**
-- [ ] Fiambre de pavo — **1 bandeja entera**
-- [ ] Queso crema / Philadelphia — queda poco
-- [ ] Queso normal — **0**
-- [ ] Queso rallado — **0**
-- [ ] Yogures — **0**
-- [ ] Fruta — **0**
-- [ ] Pan — **0**
+- [ ] Huevos — **9**
+- [ ] Fiambre de pavo — queda poco; comprar
+- [ ] Judías verdes cocidas — **1 frasco**
+- [ ] Tomate frito — **1 frasco**
 
 ## 🥫 Conservas y frascos
-- [ ] Pisto — **1 frasco grande**
+- [ ] Atún en conserva — **3 latas**
+- [ ] Atún con tomate — stock sin abrir
 - [ ] Lentejas cocidas — **1 frasco grande**
-- [ ] Atún — **0**; comprar 6 latas
 - [ ] Sardinetas — queda stock
-- [ ] Tomate triturado — de sobra
-- [ ] Caldo de pollo en brick — hay stock
-- [ ] Colorante alimentario — **0**; comprar
 
 ## 🍚 Cereales / hidratos
 - [ ] Arroz seco — disponible
 - [ ] Pasta — disponible
-- [ ] Fideos — disponibles
-- [ ] Tortillas de trigo — quedan
-- [ ] Avena — prácticamente nueva
+- [ ] Tortillas de trigo — disponibles
+- [ ] Avena — disponible
 
-## 🍳 Equipamiento útil
-- Batidora
-- Accesorio picador
-- Microondas
-- Horno
-- Vitro
-- Airfryer disponible, pero no depender de ella
-
-## Preparado
-- [ ] Tortilla — **ya hecha para la cena del domingo 27**; no hay que cocinarla
-
-## Reglas útiles
+## 📌 Reglas útiles
 - Martes y jueves: **CrossFit 8:30**.
-- Antes de CrossFit: comida ligera; desayuno completo al volver.
-- Martes y fin de semana: principales días de cocina.
-- Entre semana: priorizar platos de 5–15 min.
-- Judías verdes: cuando se compren, **1 frasco = 2 raciones**.
+- Antes de CrossFit: algo ligero; desayuno completo después.
+- Martes y fin de semana: días principales de cocina.
+- Judías verdes: **1 frasco = 2 raciones**.
+- Planificar solo hasta el desayuno del sábado.
