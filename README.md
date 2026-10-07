@@ -10,18 +10,18 @@
 | **Dom 4** | Tostadas con pavo + tomate + fruta | Lentejas con verduras y chorizo | 1/2 tortilla española + tomate |
 | **Lun 5** | Yogur + fruta + muesli | Lentejas restantes | Salmón + patata + 1/2 frasco judías verdes |
 | **Mar 6 · CrossFit** | ½–1 plátano antes · tostadas + pavo + yogur después | Patatas alioli + atún + tomate | 1/2 tortilla española + tomate |
-| **Mié 7** | Huevos revueltos + tostada + fruta | Arroz con atún con tomate y calabacín | Pasta con atún y tomate frito |
-| **Jue 8 · CrossFit** | ½–1 plátano antes · yogur + tostadas + pavo después | Cocido rápido | 1/2 frasco judías verdes + patata + 2 huevos |
-| **Vie 9** | Tostada con tomate + pavo + fruta | Dorada + patata + verduras | Wrap/fajita de pavo y tomate |
+| **Mié 7 · CrossFit** | ½–1 plátano antes · desayuno completo después | Arroz con atún con tomate y calabacín | Wraps de pavo + mango |
+| **Jue 8** | Yogur + muesli + plátano | Cocido rápido | Pasta fuerte con atún para el CrossFit del viernes |
+| **Vie 9 · CrossFit** | ½–1 plátano antes · yogur + pan + pavo después | Dorada con arroz/verdura | Cena rápida de pavo o atún |
 | **Sáb 10** | Yogur + fruta + muesli | — nueva planificación — | — |
 
 ## 🔔 Preparaciones clave
 
 - **Domingo:** lentejas para 2 raciones y tortilla para 2 cenas.
-- **Martes y jueves:** CrossFit 8:30; preentreno ligero y desayuno completo después.
-- **Miércoles noche:** pasta + atún para llegar con hidratos suficientes al CrossFit del jueves.
+- **Miércoles y viernes:** CrossFit 8:30; preentreno ligero y desayuno completo después.
+- **Jueves noche:** cena fuerte de pasta + atún para llegar con hidratos suficientes al CrossFit del viernes.
 - **Judías verdes:** dividir el frasco en 2 raciones.
-- **Patatas:** darles salida esta semana.
+- **Patatas:** ya se han gastado; desde el miércoles se sustituyen por arroz/pasta/pan.
 - **Dorada:** si se compra el sábado, congelar y pasar a nevera el jueves por la noche.
 - **Sábado:** planificar solo hasta el desayuno y después rehacer inventario/compra.
 
@@ -122,62 +122,75 @@ Segunda mitad de la tortilla + tomate + yogur/fruta si hace falta.
 
 ---
 
-## Miércoles 7
+## Miércoles 7 · CrossFit
 
-### Desayuno
-**2 huevos** revueltos + pan integral **60–80 g** + fruta + café.
+### Cena · Wraps de pavo + mango
+- Tortillas de trigo: **2**
+- Fiambre de pavo: **90–100 g**
+- Alioli: **10–15 g**
+- Cebolla salteada opcional
+- Mango: **1/2–1 unidad**, según tamaño y hambre
 
-### Comida · Arroz rápido
-- Arroz seco: **90–100 g**
-- Atún con tomate: **1 lata**
-- Calabacín: **100–150 g**
-- Cebolla: **50–70 g**
-- Aceite: **5 g**
-
-### Cena · Pasta pre-CrossFit
-- Pasta seca: **90–100 g**
-- Atún: **1 lata**
-- Tomate frito: **100–120 g**
-- Cebolla: **50 g**
-- Aceite: **5 g**
+> Hoy interesa recuperar del CrossFit con proteína e hidratos, pero sin hacer la cena más pesada de la semana.
 
 ---
 
-## Jueves 8 · CrossFit 8:30
+## Jueves 8
 
-### Antes
-**½–1 plátano**.
-
-### Después
-Yogur **200–250 g** + pan integral **70–90 g** + pavo **60–80 g** + fruta.
+### Desayuno
+- Yogur alto en proteína: **200–250 g**
+- Muesli: **35–45 g**
+- Plátano: **1/2–1**
+- Café
 
 ### Comida
 **1 frasco de cocido** descongelado la noche anterior.
 
-### Cena
-- Judías verdes: **1/2 frasco**
-- Patata: **180–220 g**
-- Huevos: **2**
-- Tomate
-- Aceite: **5 g**
+### Cena · Pasta fuerte pre-CrossFit
+- Pasta seca: **100–110 g**
+- Atún en conserva: **1 lata**
+- Atún con tomate: **1 lata**
+- Cebolla: **50–70 g**
+- Aceite: **0–5 g** según lo que aporte el atún
+
+**Cómo hacerlo**
+1. Cuece la pasta.
+2. Pocha la cebolla.
+3. Añade el atún con tomate y el atún normal escurrido.
+4. Mezcla con la pasta.
+
+> Esta es la cena más fuerte porque el viernes hay CrossFit por la mañana.
 
 ---
 
-## Viernes 9
+## Viernes 9 · CrossFit 8:30
 
-### Desayuno
-Pan integral **70–90 g** + tomate + pavo **60–80 g** + fruta + café.
+### Antes
+- **1/2–1 plátano**
+- Agua
+- Café si te apetece
 
-### Comida · Dorada
-- Dorada limpia: **250–350 g con espinas**
-- Patata: **220–250 g**
-- Cebolla: **60 g**
-- Verdura restante: **100–150 g**
+### Después
+- Yogur alto en proteína: **200–250 g**
+- Pan integral: **70–90 g**
+- Fiambre de pavo: **60–80 g**
+- El resto del mango o 1 plátano si tienes hambre
+
+### Comida · Dorada con arroz
+Si finalmente tienes la dorada:
+- Dorada: **1 ración**
+- Arroz seco: **80–100 g**
+- Cebolla/verdura disponible
 - Aceite: **5–10 g**
 - Limón, ajo, sal y pimienta
 
-### Cena · Wrap de pavo
-2 tortillas + pavo **70–90 g** + tomate + un poco de queso crema opcional.
+Si no tienes dorada, usa el mismo arroz con **1 lata de atún con tomate**.
+
+### Cena · Rápida
+- 2 tostadas o 2 tortillas de trigo
+- Pavo **70–90 g** o 1 lata de atún
+- Alioli **10 g** opcional
+- Fruta si queda
 
 ---
 
