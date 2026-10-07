@@ -7,13 +7,13 @@
 - [ ] Chorizos ibéricos grandes — **2 unidades congeladas**
 
 ## 🧊 Nevera / fresco
-- [ ] Patatas — quedan; **dar salida esta semana**
+- [ ] Patatas — **0**
 - [ ] Calabacín — **1**
-- [ ] Tomates — **4**
+- [ ] Tomates — **0**
 - [ ] Zanahorias — quedan para las lentejas
 - [ ] Cebollas — de sobra
 - [ ] Ajo — de sobra
-- [ ] Huevos — **9**
+- [ ] Huevos — **1**
 - [ ] Fiambre de pavo — queda poco; comprar
 - [ ] Judías verdes cocidas — **1 frasco**
 - [ ] Tomate frito — **1 frasco**
@@ -30,9 +30,13 @@
 - [ ] Tortillas de trigo — disponibles
 - [ ] Avena — disponible
 
+## 🍉 Fruta actual
+- [ ] Mango — **1**
+- [ ] Plátanos — **varios**
+
 ## 📌 Reglas útiles
-- Martes y jueves: **CrossFit 8:30**.
+- Miércoles y viernes: **CrossFit 8:30**.
 - Antes de CrossFit: algo ligero; desayuno completo después.
-- Martes y fin de semana: días principales de cocina.
+- Jueves por la noche: cena más fuerte para preparar el CrossFit del viernes.
 - Judías verdes: **1 frasco = 2 raciones**.
 - Planificar solo hasta el desayuno del sábado.
