@@ -127,11 +127,10 @@ Segunda mitad de la tortilla + tomate + yogur/fruta si hace falta.
 ### Cena · Wraps de atún con tomate + mango
 - Tortillas de trigo: **2**
 - Atún con tomate: **1 lata**
-- Alioli: **5–10 g** opcional
 - Cebolla salteada opcional
 - Mango: **1/2–1 unidad**, según tamaño y hambre
 
-> Hoy recuperamos del CrossFit con hidratos y proteína usando lo que sí hay en casa, sin reservar la cena más fuerte para hoy.
+> No mezclar alioli con el atún con tomate. Si otro día quieres gastar alioli, úsalo mejor con atún normal, patata, pollo o en un wrap sin salsa de tomate.
 
 ---
 
