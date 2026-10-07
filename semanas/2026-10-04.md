@@ -10,7 +10,7 @@
 | **Dom 4** | Tostadas con pavo + tomate + fruta | Lentejas con verduras y chorizo | 1/2 tortilla española + tomate |
 | **Lun 5** | Yogur + fruta + muesli | Lentejas restantes | Salmón + patata + 1/2 frasco judías verdes |
 | **Mar 6 · CrossFit** | ½–1 plátano antes · tostadas + pavo + yogur después | Patatas alioli + atún + tomate | 1/2 tortilla española + tomate |
-| **Mié 7 · CrossFit** | ½–1 plátano antes · desayuno completo después | Arroz con atún con tomate y calabacín | Wraps de pavo + mango |
+| **Mié 7 · CrossFit** | ½–1 plátano antes · desayuno completo después | Arroz con atún con tomate y calabacín | Wraps de atún con tomate + mango |
 | **Jue 8** | Yogur + muesli + plátano | Cocido rápido | Pasta fuerte con atún para el CrossFit del viernes |
 | **Vie 9 · CrossFit** | ½–1 plátano antes · yogur + pan + pavo después | Dorada con arroz/verdura | Cena rápida de pavo o atún |
 | **Sáb 10** | Yogur + fruta + muesli | — nueva planificación — | — |
@@ -124,14 +124,14 @@ Segunda mitad de la tortilla + tomate + yogur/fruta si hace falta.
 
 ## Miércoles 7 · CrossFit
 
-### Cena · Wraps de pavo + mango
+### Cena · Wraps de atún con tomate + mango
 - Tortillas de trigo: **2**
-- Fiambre de pavo: **90–100 g**
-- Alioli: **10–15 g**
+- Atún con tomate: **1 lata**
+- Alioli: **5–10 g** opcional
 - Cebolla salteada opcional
 - Mango: **1/2–1 unidad**, según tamaño y hambre
 
-> Hoy interesa recuperar del CrossFit con proteína e hidratos, pero sin hacer la cena más pesada de la semana.
+> Hoy recuperamos del CrossFit con hidratos y proteína usando lo que sí hay en casa, sin reservar la cena más fuerte para hoy.
 
 ---
 
@@ -173,7 +173,7 @@ Segunda mitad de la tortilla + tomate + yogur/fruta si hace falta.
 ### Después
 - Yogur alto en proteína: **200–250 g**
 - Pan integral: **70–90 g**
-- Fiambre de pavo: **60–80 g**
+- Si ya has repuesto pavo: **60–80 g**; si no, usa 1 lata de atún con tomate
 - El resto del mango o 1 plátano si tienes hambre
 
 ### Comida · Dorada con arroz
@@ -188,7 +188,7 @@ Si no tienes dorada, usa el mismo arroz con **1 lata de atún con tomate**.
 
 ### Cena · Rápida
 - 2 tostadas o 2 tortillas de trigo
-- Pavo **70–90 g** o 1 lata de atún
+- 1 lata de atún o, si ya has repuesto, pavo **70–90 g**
 - Alioli **10 g** opcional
 - Fruta si queda
 
