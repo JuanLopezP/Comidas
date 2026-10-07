@@ -14,7 +14,7 @@
 - [ ] Cebollas — de sobra
 - [ ] Ajo — de sobra
 - [ ] Huevos — **1**
-- [ ] Fiambre de pavo — queda poco; comprar
+- [ ] Fiambre de pavo — **0**; reponer en la próxima compra
 - [ ] Judías verdes cocidas — **1 frasco**
 - [ ] Tomate frito — **1 frasco**
 
