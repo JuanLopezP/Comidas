@@ -1,42 +1,39 @@
 # 📦 Inventario
 
-> Estado actualizado el sábado 3 de octubre de 2026.
+> Estado actualizado el martes 13 de octubre de 2026.
 
 ## ❄️ Congelador
-- [ ] Cocido casero — **2 frascos**
-- [ ] Chorizos ibéricos grandes — **2 unidades congeladas**
+- [ ] Espinacas congeladas — quedan; **priorizar esta semana**
+- [ ] Guisantes congelados — quedan; **priorizar esta semana**
+- [ ] Chorizos ibéricos — revisar cantidad en la próxima revisión
+- [ ] Cocido casero — **0**
 
 ## 🧊 Nevera / fresco
-- [ ] Patatas — **0**
-- [ ] Calabacín — **1**
-- [ ] Tomates — **0**
-- [ ] Zanahorias — quedan para las lentejas
-- [ ] Cebollas — de sobra
-- [ ] Ajo — de sobra
-- [ ] Huevos — **1**
-- [ ] Fiambre de pavo — **0**; reponer en la próxima compra
+- [ ] Caldereta — **2 tuppers**, gastar esta semana
+- [ ] Yogures — **3**
+- [ ] Huevos — **0**
+- [ ] Queso crema / Philadelphia — **0**
 - [ ] Judías verdes cocidas — **1 frasco**
-- [ ] Tomate frito — **1 frasco**
+- [ ] Fruta — **0**
+- [ ] Fiambre de pavo — revisar si queda algo
+- [ ] Pan — revisar
+- [ ] Tortillas de trigo — revisar
 
 ## 🥫 Conservas y frascos
-- [ ] Atún en conserva — **3 latas**
-- [ ] Atún con tomate — stock sin abrir
-- [ ] Lentejas cocidas — **1 frasco grande**
-- [ ] Sardinetas — queda stock
+- [ ] Atún — **0**
+- [ ] Atún con tomate — tratar como **0 hasta confirmar**
+- [ ] Tomate frito — revisar si queda
+- [ ] Sardinetas — revisar
 
 ## 🍚 Cereales / hidratos
 - [ ] Arroz seco — disponible
-- [ ] Pasta — disponible
-- [ ] Tortillas de trigo — disponibles
+- [ ] Pasta — **0**
+- [ ] Muesli — disponible
 - [ ] Avena — disponible
 
-## 🍉 Fruta actual
-- [ ] Mango — **1**
-- [ ] Plátanos — **varios**
-
 ## 📌 Reglas útiles
-- Miércoles y viernes: **CrossFit 8:30**.
+- CrossFit: **miércoles y viernes a las 8:30**.
 - Antes de CrossFit: algo ligero; desayuno completo después.
-- Jueves por la noche: cena más fuerte para preparar el CrossFit del viernes.
+- Priorizar congelador para no seguir acumulando: **espinacas y guisantes**.
 - Judías verdes: **1 frasco = 2 raciones**.
 - Planificar solo hasta el desayuno del sábado.
