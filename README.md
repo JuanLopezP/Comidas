@@ -1,204 +1,133 @@
 # 🍽️ Comidas
 
-## Semana actual · 3–10 octubre 2026
+## Tramo actual · martes 13 – sábado 17 octubre 2026
 
-> Objetivo: recomposición corporal, buena energía para CrossFit, más variedad en desayunos y cocina larga concentrada en domingo/martes.
+> Objetivo: mantener proteína suficiente para ganar/retener músculo, apoyar CrossFit miércoles y viernes y recortar ligeramente la energía total sin quitar combustible alrededor del entrenamiento.
 
 | Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Sáb 3 · Ciclismo** | Desayuno habitual | Arroz con atún, tomate y calabacín | 🍴 Fuera |
-| **Dom 4** | Tostadas con pavo + tomate + fruta | Lentejas con verduras y chorizo | 1/2 tortilla española + tomate |
-| **Lun 5** | Yogur + fruta + muesli | Lentejas restantes | Salmón + patata + 1/2 frasco judías verdes |
-| **Mar 6 · CrossFit** | ½–1 plátano antes · tostadas + pavo + yogur después | Patatas alioli + atún + tomate | 1/2 tortilla española + tomate |
-| **Mié 7 · CrossFit** | ½–1 plátano antes · desayuno completo después | Arroz con atún con tomate y calabacín | Wraps de atún con tomate + mango |
-| **Jue 8** | Yogur + muesli + plátano | Cocido rápido | Pasta fuerte con atún para el CrossFit del viernes |
-| **Vie 9 · CrossFit** | ½–1 plátano antes · yogur + pan + pavo después | Dorada con arroz/verdura | Cena rápida de pavo o atún |
-| **Sáb 10** | Yogur + fruta + muesli | — nueva planificación — | — |
+| **Mar 13** | — | — | Caldereta + arroz + guisantes |
+| **Mié 14 · CrossFit** | Pre: un poco de muesli/yogur · Post: yogur + muesli | Judías verdes + arroz + caldereta si queda salsa/carne | Arroz con espinacas y guisantes + proteína de la caldereta si queda |
+| **Jue 15** | Yogur + muesli | 2º tupper de caldereta + judías verdes | Arroz salteado con espinacas y guisantes |
+| **Vie 16 · CrossFit** | Pre: muesli ligero · Post: último yogur + muesli | Arroz con espinacas/guisantes + caldereta si aún queda | Cena sencilla con arroz/tortilla de trigo y lo que quede de proteína |
+| **Sáb 17** | Muesli + yogur si queda; si no, tostada/tortilla de trigo | — compra y nueva planificación — | — |
 
-## 🔔 Preparaciones clave
+## Ajuste por la subida de peso
 
-- **Domingo:** lentejas para 2 raciones y tortilla para 2 cenas.
-- **Miércoles y viernes:** CrossFit 8:30; preentreno ligero y desayuno completo después.
-- **Jueves noche:** cena fuerte de pasta + atún para llegar con hidratos suficientes al CrossFit del viernes.
-- **Judías verdes:** dividir el frasco en 2 raciones.
-- **Patatas:** ya se han gastado; desde el miércoles se sustituyen por arroz/pasta/pan.
-- **Dorada:** si se compra el sábado, congelar y pasar a nevera el jueves por la noche.
-- **Sábado:** planificar solo hasta el desayuno y después rehacer inventario/compra.
+- No se recortan los hidratos alrededor de CrossFit.
+- En días sin entrenamiento, el arroz pasa a **70–80 g en seco** en vez de 90–110 g.
+- En cenas pre-CrossFit, mantener **85–95 g de arroz seco**.
+- Evitar sumar grasas “invisibles”: alioli, quesos, aceite y salsas en cantidades grandes.
+- Mantener una fuente clara de proteína en las comidas principales.
+- Seguir el peso como **media semanal**, no por una sola medición, y mirar también cintura/rendimiento.
 
 ---
 
-## Sábado 3 · Ruta de ciclismo por la tarde
+## Martes 13 · Cena pre-CrossFit
 
-### Comida · Arroz fuerte pero fácil de digerir
-- Arroz seco: **100–110 g**
-- Atún en conserva: **1 lata**
-- Tomate frito: **100–120 g**
-- Calabacín: **100–150 g**
-- Cebolla: **40–60 g**
-- Aceite: **5 g**
-- 1 pieza de fruta después si ya has hecho la compra
+### Caldereta con arroz y guisantes
+- Caldereta: **1 tupper**
+- Arroz seco: **85–95 g**
+- Guisantes congelados: **80–100 g**
 
-**Cómo hacerlo**
-1. Cuece el arroz.
-2. Saltea cebolla y calabacín con el aceite.
-3. Añade tomate frito y el atún escurrido.
-4. Mezcla con el arroz.
+Calienta la caldereta y cuece el arroz. Añade los guisantes al arroz los últimos minutos.
 
-> La idea es llegar a la ruta con buenas reservas de hidratos, proteína suficiente y sin una comida excesivamente grasa o pesada. Intenta comerla **2–3 horas antes de salir**.
-
-### Antes de salir en bici
-Si han pasado más de 2–3 horas desde la comida o notas hambre:
-- **1 plátano** o
-- una tostada pequeña con pavo.
-
-Lleva agua; si la ruta va a ser larga, lleva también algo de hidrato fácil de tomar durante la salida.
-
-### Cena
-🍴 Fuera de casa.
+> Es una cena suficiente para llegar con energía al CrossFit del miércoles sin hacer una carga excesiva.
 
 ---
 
-## Domingo 4
+## Miércoles 14 · CrossFit 8:30
 
-### Desayuno
-Pan integral **70–90 g** + pavo **60–80 g** + tomate + fruta + café.
-
-### Comida · Lentejas, 2 raciones
-- Lentejas: **1 frasco grande**
-- Chorizo ibérico: **40–60 g**
-- Zanahoria: **100–150 g**
-- Cebolla: **100 g**
-- Ajo: **1 diente**
-- Tomate frito: **100–150 g**
-- Calabacín: **100–150 g**
-- Caldo/agua: **250–350 ml**
-- Aceite: **10 g**
-
-Sofríe verdura, añade chorizo, tomate, lentejas y caldo. Cocina unos **15 min**. Guarda una ración para el lunes.
-
-### Cena · Tortilla española, 2 cenas
-- Patata: **400–450 g**
-- Huevos: **4**
-- Cebolla: **80–100 g**
-- Aceite: **10–15 g**
-
-Microondas para ablandar la patata, termina con cebolla en sartén, mezcla con huevo y cuaja. Cena la mitad y guarda la otra para el martes.
-
----
-
-## Lunes 5
-
-### Desayuno
-Yogur/Skyr **200–250 g** + muesli **35–45 g** + fruta + café.
-
-### Comida
-Segunda ración de lentejas.
-
-### Cena · Salmón
-- Salmón: **180–200 g**
-- Patata: **220–250 g**
-- Judías verdes: **1/2 frasco**
-- Aceite: **5 g**
-- Limón, ajo y pimienta
-
----
-
-## Martes 6 · CrossFit 8:30
-
-### Antes
-**½–1 plátano** + agua; café opcional.
+### Antes de entrenar
+Como no hay fruta:
+- Muesli: **20–25 g**
+- Unas cucharadas de yogur si te entran bien
+- Agua y café opcional
 
 ### Después
-Pan integral **70–90 g** + pavo **70–80 g** + yogur **150–200 g**.
+- Yogur alto en proteína: **1 unidad**
+- Muesli: **35–40 g**
+- Si tienes pan/tortillas de trigo aún, añade una pequeña ración si sales con mucha hambre.
 
-### Comida · Patatas alioli con atún
-- Patata: **300–350 g**
-- Atún: **1 lata**
-- Tomate: **1**
-- Alioli: **15–20 g**
+### Comida
+- Judías verdes: **1/2 frasco**
+- Arroz seco: **75–85 g**
+- Si queda carne/salsa de la caldereta del martes, úsala aquí.
+- Si el tupper se gastó entero, deja esta comida sencilla y reserva el segundo para el jueves.
 
 ### Cena
-Segunda mitad de la tortilla + tomate + yogur/fruta si hace falta.
+- Arroz seco: **70–80 g**
+- Espinacas congeladas: **120–150 g**
+- Guisantes congelados: **80–100 g**
+- Ajo/cebolla
+- Aceite: **5 g**
+
+> Si queda algo de carne de la caldereta, mézclala aquí. Si no, es una cena provisional algo corta de proteína y el sábado habrá que reponer proteína fácil.
 
 ---
 
-## Miércoles 7 · CrossFit
-
-### Cena · Wraps de atún con tomate + mango
-- Tortillas de trigo: **2**
-- Atún con tomate: **1 lata**
-- Cebolla salteada opcional
-- Mango: **1/2–1 unidad**, según tamaño y hambre
-
-> No mezclar alioli con el atún con tomate. Si otro día quieres gastar alioli, úsalo mejor con atún normal, patata, pollo o en un wrap sin salsa de tomate.
-
----
-
-## Jueves 8
+## Jueves 15
 
 ### Desayuno
-- Yogur alto en proteína: **200–250 g**
+- Yogur: **1 unidad**
 - Muesli: **35–45 g**
-- Plátano: **1/2–1**
 - Café
 
-### Comida
-**1 frasco de cocido** descongelado la noche anterior.
+### Comida · Caldereta
+- Segundo tupper de caldereta
+- Judías verdes: **1/2 frasco restante**
+- Arroz seco: **70–80 g** solo si la caldereta trae poco acompañamiento.
 
-### Cena · Pasta fuerte pre-CrossFit
-- Pasta seca: **100–110 g**
-- Atún en conserva: **1 lata**
-- Atún con tomate: **1 lata**
-- Cebolla: **50–70 g**
-- Aceite: **0–5 g** según lo que aporte el atún
+### Cena pre-CrossFit
+- Arroz seco: **85–95 g**
+- Espinacas congeladas: **120–150 g**
+- Guisantes: **80–100 g**
+- Ajo/cebolla
+- Aceite: **5 g**
 
-**Cómo hacerlo**
-1. Cuece la pasta.
-2. Pocha la cebolla.
-3. Añade el atún con tomate y el atún normal escurrido.
-4. Mezcla con la pasta.
-
-> Esta es la cena más fuerte porque el viernes hay CrossFit por la mañana.
+> Esta es la cena con más hidratos porque el viernes hay CrossFit.
 
 ---
 
-## Viernes 9 · CrossFit 8:30
+## Viernes 16 · CrossFit 8:30
 
-### Antes
-- **1/2–1 plátano**
+### Antes de entrenar
+- Muesli: **20–25 g**
 - Agua
-- Café si te apetece
+- Café opcional
 
 ### Después
-- Yogur alto en proteína: **200–250 g**
-- Pan integral: **70–90 g**
-- Si ya has repuesto pavo: **60–80 g**; si no, usa 1 lata de atún con tomate
-- El resto del mango o 1 plátano si tienes hambre
+- Último yogur: **1 unidad**
+- Muesli: **35–45 g**
 
-### Comida · Dorada con arroz
-Si finalmente tienes la dorada:
-- Dorada: **1 ración**
-- Arroz seco: **80–100 g**
-- Cebolla/verdura disponible
-- Aceite: **5–10 g**
-- Limón, ajo, sal y pimienta
+### Comida
+- Arroz seco: **75–85 g**
+- Espinacas y/o guisantes del congelador
+- Usar cualquier resto de caldereta si aún queda.
 
-Si no tienes dorada, usa el mismo arroz con **1 lata de atún con tomate**.
+### Cena
+Cena de aprovechamiento y ligera. Si siguen quedando tortillas de trigo:
+- Tortillas: **2**
+- Espinacas/guisantes salteados
+- Algún resto de proteína disponible
 
-### Cena · Rápida
-- 2 tostadas o 2 tortillas de trigo
-- 1 lata de atún o, si ya has repuesto, pavo **70–90 g**
-- Alioli **10 g** opcional
-- Fruta si queda
+Si no quedan tortillas, usar **70–80 g de arroz seco** como base.
 
 ---
 
-## Sábado 10
+## Sábado 17
 
 ### Desayuno
-Yogur **200–250 g** + muesli **35–45 g** + fruta + café.
+Si queda yogur:
+- Yogur + muesli **35–45 g**
 
-Después: revisar inventario, planificar la nueva semana y hacer la compra.
+Si ya no queda:
+- Pan/tortilla de trigo que quede + café.
+
+Después: revisar inventario real, hacer compra y planificar la semana completa.
+
+## 📌 Prioridades para la próxima compra
+Reponer fruta, huevos, una proteína fácil para desayunos/cenas, atún, pasta y yogures. Revisar antes si queda pan, pavo y tortillas.
 
 ## 📌 Accesos rápidos
 - [Lista de la compra](compra.md)
