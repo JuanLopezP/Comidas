@@ -24,7 +24,7 @@ Filetes de lomo adobado — 1 paquete familiar
 ```
 
 ## Ya hay en casa
-- Arroz.
+- Arroz de sobra.
 - Muesli y avena.
 - 1 frasco de judías verdes.
 - Espinacas congeladas.
@@ -32,6 +32,10 @@ Filetes de lomo adobado — 1 paquete familiar
 - 1 tupper de caldereta para esta semana.
 - 1 tupper de caldereta congelado para la semana que viene.
 - 3 yogures, que se gastarán antes de abrir los nuevos.
+- Atún con tomate: 3 latas.
+- Sardinetas: 6 paquetes de 1 latilla.
+- Fideos: casi 1 bolsa.
+- Caldo de pollo: 2 briks de 1 L.
 - Tortillas/fajitas de trigo; **no comprar más hasta gastar las que quedan**.
 
 
