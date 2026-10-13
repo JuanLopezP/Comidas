@@ -8,8 +8,8 @@
 |---|---|---|---|
 | **Mar 13** | — | — | Pasta con atún, espinacas y guisantes · fuerte pre-CrossFit |
 | **Mié 14 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Caldereta + 1/2 frasco de judías verdes | Tortilla de espinacas + yogur/fruta |
-| **Jue 15** | Yogur + muesli + fruta | Salmón + 1/2 frasco de judías verdes + guisantes | Pasta con pollo, espinacas y guisantes · fuerte pre-CrossFit |
-| **Vie 16 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Pollo salteado con arroz y guisantes | Tostadas de pavo + Philadelphia + fruta |
+| **Jue 15** | Yogur + muesli + fruta | Salmón + 1/2 frasco de judías verdes + guisantes | Fajitas de lomo adobado con verduras · fuerte pre-CrossFit |
+| **Vie 16 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Pollo salteado con pasta/arroz y guisantes | Revuelto ligero de espinacas + huevo + fruta |
 | **Sáb 17** | Yogur + muesli + fruta | — nueva planificación — | — |
 
 ## Reglas
@@ -18,9 +18,10 @@
 - **Segundo tupper:** congelado para una comida de la semana que viene.
 - **Cenas normales:** ligeras.
 - **Martes y jueves noche:** más completas porque son víspera de CrossFit.
-- **Desayuno post-CrossFit preferido:** tostada + Philadelphia + huevo frito + pechuga de pavo.
+- **Desayuno post-CrossFit preferido:** tostada + Philadelphia + huevo frito + pechuga de pavo. El pavo en tostada se reserva para desayunos, no para cenas.
 - **Espinacas y guisantes:** usarlos varias veces esta semana, pero combinados con pasta, pescado, huevo y pollo para variar.
 - **Judías verdes:** 1 frasco = 2 raciones.
+- **Fajitas/tortillas de trigo:** hay stock; priorizar rotación antes de comprar más.
 
 ---
 
@@ -83,15 +84,17 @@ Cuece la pasta. Saltea cebolla, espinacas y guisantes, añade el atún y mezcla.
 - Limón
 - Aceite: **5 g**
 
-### Cena pre-CrossFit · Pasta con pollo
-- Pasta seca: **90–100 g**
-- Pechuga de pollo: **180–200 g**
-- Espinacas: **100–120 g**
-- Guisantes: **70–90 g**
-- Cebolla/ajo
-- Aceite: **5 g**
+### Cena pre-CrossFit · Fajitas de lomo adobado
+- Tortillas de trigo/fajitas: **2–3**
+- Filetes de lomo adobado: **4 filetes**
+- Cebolla: **60–80 g**
+- Espinacas congeladas: **80–100 g**
+- Guisantes: **50–70 g**
+- Aceite: **0–5 g**, según lo que suelte el lomo
 
-> Congela al llegar de la compra la otra mitad del pollo y pásala a la nevera el jueves por la noche para el viernes.
+Corta el lomo en tiras, saltéalo con cebolla y añade espinacas y guisantes. Reparte en las fajitas.
+
+> Así gastamos tortillas que ya tienes y usamos un paquete de 4 filetes tal como quieres congelarlos. El resto del paquete familiar se congela en porciones de 4 filetes.
 
 ---
 
@@ -108,17 +111,20 @@ Cuece la pasta. Saltea cebolla, espinacas y guisantes, añade el atún y mezcla.
 - Huevo frito/a la plancha: **1**
 - Pechuga de pavo: **60–80 g**
 
-### Comida · Pollo con arroz y guisantes
+### Comida · Pollo con pasta o arroz y guisantes
 - Pechuga de pollo: **180–200 g**
-- Arroz seco: **70–80 g**
+- Pasta seca: **70–80 g** o arroz seco **70–80 g**
 - Guisantes: **80–100 g**
 - Espinacas: **80–100 g** opcionales
 - Aceite: **5 g**
 
-### Cena ligera
-- Pan integral: **60–70 g**
-- Pechuga de pavo: **70–90 g**
-- Philadelphia: **15–20 g**
+> Si abriste la pasta el martes, úsala aquí para seguir rotando. Si prefieres no repetir pasta, usa arroz.
+
+### Cena ligera · Revuelto de espinacas
+- Huevos: **2**
+- Espinacas congeladas: **100–120 g**
+- Guisantes: **50–70 g** opcionales
+- Aceite: **5 g**
 - 1 pieza de fruta
 
 ---
