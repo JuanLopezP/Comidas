@@ -6,10 +6,10 @@
 
 | Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Mar 13** | — | — | Pasta con atún, espinacas y guisantes · fuerte pre-CrossFit |
-| **Mié 14 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Caldereta + 1/2 frasco de judías verdes | Tortilla de espinacas + yogur/fruta |
-| **Jue 15** | Yogur + muesli + fruta | Salmón + 1/2 frasco de judías verdes + guisantes | Fajitas de lomo adobado con verduras · fuerte pre-CrossFit |
-| **Vie 16 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Pollo salteado con pasta/arroz y guisantes | Revuelto ligero de espinacas + huevo + fruta |
+| **Mar 13** | — | — | Pasta con atún y guisantes · fuerte pre-CrossFit |
+| **Mié 14 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Caldereta + 1/2 frasco de judías verdes | Sopa ligera de fideos, caldo y huevo |
+| **Jue 15** | Yogur + muesli + fruta | Salmón + 1/2 frasco de judías verdes | Fajitas de lomo adobado con cebolla y pimiento · fuerte pre-CrossFit |
+| **Vie 16 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Pollo con arroz y guisantes | Sardinetas con tomate + 1–2 fajitas · cena ligera |
 | **Sáb 17** | Yogur + muesli + fruta | — nueva planificación — | — |
 
 ## Reglas
@@ -27,15 +27,14 @@
 
 ## Martes 13 · Cena pre-CrossFit
 
-### Pasta con atún, espinacas y guisantes
+### Pasta con atún y guisantes
 - Pasta seca: **90–100 g**
 - Atún: **1 lata**
-- Espinacas congeladas: **100–120 g**
 - Guisantes congelados: **70–90 g**
 - Cebolla/ajo
 - Aceite: **5 g**
 
-Cuece la pasta. Saltea cebolla, espinacas y guisantes, añade el atún y mezcla.
+Cuece la pasta. Saltea cebolla y guisantes, añade el atún y mezcla. Esta vez dejamos las espinacas fuera para no repetirlas tanto.
 
 ---
 
@@ -59,12 +58,14 @@ Cuece la pasta. Saltea cebolla, espinacas y guisantes, añade el atún y mezcla.
 
 > Si la caldereta lleva poco hidrato, añade solo **40–50 g de pan** o **50–60 g de arroz seco**.
 
-### Cena ligera · Tortilla de espinacas
-- Huevos: **2**
-- Espinacas congeladas: **100–120 g**
-- Cebolla: al gusto
-- Aceite: **5 g**
-- 1 yogur o una pieza de fruta
+### Cena ligera · Sopa de fideos con huevo
+- Caldo de pollo: **350–450 ml**
+- Fideos: **40–50 g**
+- Huevo: **1–2**
+- Espinacas congeladas: **50–70 g** opcionales
+- Ajo o cebolla al gusto
+
+Cuece los fideos en el caldo y añade el huevo al final, escalfado o batido. Si te apetece, mete solo un puñado pequeño de espinacas.
 
 ---
 
@@ -76,10 +77,9 @@ Cuece la pasta. Saltea cebolla, espinacas y guisantes, añade el atún y mezcla.
 - 1 pieza de fruta
 - Café
 
-### Comida · Salmón con verduras
+### Comida · Salmón con judías verdes
 - Salmón: **180–200 g**
 - Judías verdes: **1/2 frasco restante**
-- Guisantes: **80–100 g**
 - Pan integral: **50–70 g** o arroz seco **60–70 g**
 - Limón
 - Aceite: **5 g**
@@ -88,11 +88,10 @@ Cuece la pasta. Saltea cebolla, espinacas y guisantes, añade el atún y mezcla.
 - Tortillas de trigo/fajitas: **2–3**
 - Filetes de lomo adobado: **4 filetes**
 - Cebolla: **60–80 g**
-- Espinacas congeladas: **80–100 g**
-- Guisantes: **50–70 g**
+- Pimiento: **1/2–1 unidad**
 - Aceite: **0–5 g**, según lo que suelte el lomo
 
-Corta el lomo en tiras, saltéalo con cebolla y añade espinacas y guisantes. Reparte en las fajitas.
+Corta el lomo en tiras y saltéalo con cebolla y pimiento. Reparte en las fajitas.
 
 > Así gastamos tortillas que ya tienes y usamos un paquete de 4 filetes tal como quieres congelarlos. El resto del paquete familiar se congela en porciones de 4 filetes.
 
@@ -111,21 +110,20 @@ Corta el lomo en tiras, saltéalo con cebolla y añade espinacas y guisantes. Re
 - Huevo frito/a la plancha: **1**
 - Pechuga de pavo: **60–80 g**
 
-### Comida · Pollo con pasta o arroz y guisantes
+### Comida · Pollo con arroz y guisantes
 - Pechuga de pollo: **180–200 g**
-- Pasta seca: **70–80 g** o arroz seco **70–80 g**
+- Arroz seco: **70–80 g**
 - Guisantes: **80–100 g**
-- Espinacas: **80–100 g** opcionales
+- Cebolla/ajo
 - Aceite: **5 g**
 
-> Si abriste la pasta el martes, úsala aquí para seguir rotando. Si prefieres no repetir pasta, usa arroz.
+### Cena ligera · Sardinetas con tomate
+- Sardinetas: **1–2 latillas**
+- Tomate: **1 grande o 2 pequeños**
+- Tortillas de trigo/fajitas: **1–2**, según hambre
+- Limón o vinagre si te apetece
 
-### Cena ligera · Revuelto de espinacas
-- Huevos: **2**
-- Espinacas congeladas: **100–120 g**
-- Guisantes: **50–70 g** opcionales
-- Aceite: **5 g**
-- 1 pieza de fruta
+> Cena distinta a las tostadas de pavo y sirve para ir rotando las sardinetas y las fajitas que ya tienes.
 
 ---
 
