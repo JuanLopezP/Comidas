@@ -20,6 +20,7 @@ Pasta — 1 paquete de 500 g
 Atún en conserva — 6 latas
 Salmón fresco — 1 ración de 180–200 g
 Pechuga de pollo — 400 g aprox.
+Filetes de lomo adobado — 1 paquete familiar
 ```
 
 ## Ya hay en casa
@@ -31,3 +32,6 @@ Pechuga de pollo — 400 g aprox.
 - 1 tupper de caldereta para esta semana.
 - 1 tupper de caldereta congelado para la semana que viene.
 - 3 yogures, que se gastarán antes de abrir los nuevos.
+
+
+> Si compras el lomo adobado, dividirlo en paquetes de **4 filetes**, etiquetar y congelar para próximas semanas. No contarlo aún como inventario hasta que esté comprado.
