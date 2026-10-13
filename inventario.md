@@ -18,6 +18,7 @@
 - [ ] Fruta — **0**
 - [ ] Fiambre/pechuga de pavo — queda poco o nada; **reponer**
 - [ ] Pan — revisar
+- [ ] Tortillas de trigo/fajitas — **quedan; priorizar rotación**
 
 ## 🥫 Conservas
 - [ ] Atún — **0**
@@ -32,9 +33,9 @@
 
 ## 📌 Reglas útiles
 - CrossFit: **miércoles y viernes a las 8:30**.
-- Post-CrossFit preferido: **tostada + Philadelphia + huevo + pechuga de pavo**.
+- Post-CrossFit preferido: **tostada + Philadelphia + huevo + pechuga de pavo**. Reservar estas tostadas para desayuno, no cena.
 - Cenas: ligeras salvo la noche anterior a CrossFit.
 - Caldereta: usar como **comida**, no cena.
-- Priorizar espinacas y guisantes del congelador.
+- Priorizar espinacas, guisantes y tortillas/fajitas que ya están abiertas o almacenadas.
 - Judías verdes: **1 frasco = 2 raciones**.
 - Planificar solo hasta el desayuno del sábado.
