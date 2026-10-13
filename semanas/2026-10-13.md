@@ -2,7 +2,7 @@
 
 ## Tramo actual · martes 13 – sábado 17 octubre 2026
 
-> Objetivo: mantener proteína suficiente para ganar/retener músculo, apoyar CrossFit miércoles y viernes, controlar un poco mejor la energía total y aprovechar espinacas, guisantes y judías verdes sin convertir todas las comidas en arroz.
+> Objetivo: mantener proteína suficiente para ganar/retener músculo, apoyar CrossFit miércoles y viernes, controlar un poco mejor la energía total y aprovechar el inventario con rotación progresiva, sin forzar a gastar espinacas y guisantes de golpe.
 
 | Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
@@ -19,7 +19,7 @@
 - **Cenas normales:** ligeras.
 - **Martes y jueves noche:** más completas porque son víspera de CrossFit.
 - **Desayuno post-CrossFit preferido:** tostada + Philadelphia + huevo frito + pechuga de pavo. El pavo en tostada se reserva para desayunos, no para cenas.
-- **Espinacas y guisantes:** usarlos varias veces esta semana, pero combinados con pasta, pescado, huevo y pollo para variar.
+- **Espinacas y guisantes:** tenerlos presentes para rotarlos poco a poco; no hace falta gastarlos todos esta semana.
 - **Judías verdes:** 1 frasco = 2 raciones.
 - **Fajitas/tortillas de trigo:** hay stock; priorizar rotación antes de comprar más.
 
