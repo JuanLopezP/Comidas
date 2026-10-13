@@ -6,7 +6,8 @@
 - [ ] Caldereta — **1 tupper reservado para una comida de la semana que viene**
 - [ ] Espinacas congeladas — disponibles; **usar esta semana**
 - [ ] Guisantes congelados — disponibles; **usar esta semana**
-- [ ] Chorizos ibéricos — revisar cantidad el sábado
+- [ ] Chorizo ibérico grande — **1 unidad**
+- [ ] Chorizos pequeños — **aprox. 7 unidades**
 - [ ] Cocido casero — **0**
 
 ## 🧊 Nevera / fresco
@@ -17,17 +18,21 @@
 - [ ] Judías verdes cocidas — **1 frasco**
 - [ ] Fruta — **0**
 - [ ] Fiambre/pechuga de pavo — queda poco o nada; **reponer**
-- [ ] Pan — revisar
+- [ ] Pan — **0**
 - [ ] Tortillas de trigo/fajitas — **quedan; priorizar rotación**
 
 ## 🥫 Conservas
 - [ ] Atún — **0**
-- [ ] Atún con tomate — no contar hasta confirmar
-- [ ] Sardinetas — revisar
+- [ ] Atún con tomate — **3 latas**
+- [ ] Sardinetas — **6 paquetes de 1 latilla**
+
+## 🥣 Caldos
+- [ ] Caldo de pollo — **2 briks de 1 L**
 
 ## 🍚 Cereales / hidratos
-- [ ] Arroz seco — disponible
+- [ ] Arroz seco — **de sobra**
 - [ ] Pasta — **0**
+- [ ] Fideos — **casi 1 bolsa**
 - [ ] Muesli — disponible
 - [ ] Avena — disponible
 
