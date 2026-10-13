@@ -2,133 +2,136 @@
 
 ## Tramo actual · martes 13 – sábado 17 octubre 2026
 
-> Objetivo: mantener proteína suficiente, apoyar CrossFit miércoles y viernes, controlar un poco mejor la energía total y dejar las cenas ligeras salvo la noche anterior a CrossFit.
+> Objetivo: mantener proteína suficiente para ganar/retener músculo, apoyar CrossFit miércoles y viernes, controlar un poco mejor la energía total y aprovechar espinacas, guisantes y judías verdes sin convertir todas las comidas en arroz.
 
 | Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Mar 13** | — | — | Arroz con espinacas y guisantes · cena fuerte pre-CrossFit |
-| **Mié 14 · CrossFit** | Pre: muesli ligero · Post: yogur + muesli | Caldereta · 1 tupper | Cena ligera con judías verdes + arroz |
-| **Jue 15** | Yogur + muesli | Arroz con espinacas y guisantes | Arroz más completo pre-CrossFit |
-| **Vie 16 · CrossFit** | Pre: muesli ligero · Post: último yogur + muesli | Judías verdes + arroz + aprovechamiento | Cena ligera |
-| **Sáb 17** | Muesli + yogur si queda | — compra y nueva planificación — | — |
+| **Mar 13** | — | — | Pasta con atún, espinacas y guisantes · fuerte pre-CrossFit |
+| **Mié 14 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Caldereta + 1/2 frasco de judías verdes | Tortilla de espinacas + yogur/fruta |
+| **Jue 15** | Yogur + muesli + fruta | Salmón + 1/2 frasco de judías verdes + guisantes | Pasta con pollo, espinacas y guisantes · fuerte pre-CrossFit |
+| **Vie 16 · CrossFit** | Pre: ½ plátano · Post: tostada + Philadelphia + huevo + pavo | Pollo salteado con arroz y guisantes | Tostadas de pavo + Philadelphia + fruta |
+| **Sáb 17** | Yogur + muesli + fruta | — nueva planificación — | — |
 
-## Reglas nuevas
+## Reglas
 
-- **Caldereta:** 1 tupper se usa esta semana **para comer**, no para cenar.
-- **Segundo tupper de caldereta:** congelado y reservado para una comida de la semana que viene.
+- **Caldereta:** 1 tupper para la comida del miércoles.
+- **Segundo tupper:** congelado para una comida de la semana que viene.
 - **Cenas normales:** ligeras.
-- **Excepción:** martes y jueves por la noche, por ser víspera de CrossFit.
-- **Desayuno post-CrossFit preferido para próximas semanas:** tostada + Philadelphia + huevo frito + pechuga de pavo.
-- Esta semana no se usa ese desayuno exacto porque no quedan huevos ni Philadelphia.
+- **Martes y jueves noche:** más completas porque son víspera de CrossFit.
+- **Desayuno post-CrossFit preferido:** tostada + Philadelphia + huevo frito + pechuga de pavo.
+- **Espinacas y guisantes:** usarlos varias veces esta semana, pero combinados con pasta, pescado, huevo y pollo para variar.
+- **Judías verdes:** 1 frasco = 2 raciones.
 
 ---
 
 ## Martes 13 · Cena pre-CrossFit
 
-### Arroz con espinacas y guisantes
-- Arroz seco: **85–95 g**
-- Espinacas congeladas: **120–150 g**
-- Guisantes congelados: **80–100 g**
-- Ajo/cebolla
+### Pasta con atún, espinacas y guisantes
+- Pasta seca: **90–100 g**
+- Atún: **1 lata**
+- Espinacas congeladas: **100–120 g**
+- Guisantes congelados: **70–90 g**
+- Cebolla/ajo
 - Aceite: **5 g**
 
-> Cena con más hidratos porque mañana hay CrossFit. Si queda algo de fiambre de pavo, puedes añadir **60–80 g**.
+Cuece la pasta. Saltea cebolla, espinacas y guisantes, añade el atún y mezcla.
 
 ---
 
 ## Miércoles 14 · CrossFit 8:30
 
 ### Antes
-- Muesli: **20–25 g**
+- **1/2 plátano**
 - Agua
 - Café opcional
 
 ### Después
-- Yogur alto en proteína: **1 unidad**
-- Muesli: **35–40 g**
-
-> A partir de la compra del sábado, el desayuno post-CrossFit preferente será: tostada + Philadelphia + huevo frito + pechuga de pavo.
+- Pan integral: **70–80 g**
+- Philadelphia: **20–25 g**
+- Huevo frito/a la plancha: **1**
+- Pechuga de pavo: **60–80 g**
+- Café
 
 ### Comida · Caldereta
 - **1 tupper de caldereta**
 - Judías verdes: **1/2 frasco**
-- Arroz seco: **60–70 g** solo si el tupper trae poco hidrato.
 
-### Cena ligera
-- Arroz seco: **60–70 g**
+> Si la caldereta lleva poco hidrato, añade solo **40–50 g de pan** o **50–60 g de arroz seco**.
+
+### Cena ligera · Tortilla de espinacas
+- Huevos: **2**
 - Espinacas congeladas: **100–120 g**
-- Guisantes: **60–80 g**
+- Cebolla: al gusto
 - Aceite: **5 g**
+- 1 yogur o una pieza de fruta
 
 ---
 
 ## Jueves 15
 
 ### Desayuno
-- Yogur: **1 unidad**
-- Muesli: **35–45 g**
+- Yogur alto en proteína: **200–250 g**
+- Muesli: **35–40 g**
+- 1 pieza de fruta
 - Café
 
-### Comida
-- Arroz seco: **70–80 g**
-- Espinacas congeladas: **120–150 g**
+### Comida · Salmón con verduras
+- Salmón: **180–200 g**
+- Judías verdes: **1/2 frasco restante**
 - Guisantes: **80–100 g**
-- Ajo/cebolla
+- Pan integral: **50–70 g** o arroz seco **60–70 g**
+- Limón
 - Aceite: **5 g**
 
-### Cena pre-CrossFit
-- Arroz seco: **85–95 g**
-- Espinacas: **120–150 g**
-- Guisantes: **80–100 g**
+### Cena pre-CrossFit · Pasta con pollo
+- Pasta seca: **90–100 g**
+- Pechuga de pollo: **180–200 g**
+- Espinacas: **100–120 g**
+- Guisantes: **70–90 g**
+- Cebolla/ajo
 - Aceite: **5 g**
 
-> Esta es la cena más fuerte del jueves porque el viernes hay CrossFit.
+> Congela al llegar de la compra la otra mitad del pollo y pásala a la nevera el jueves por la noche para el viernes.
 
 ---
 
 ## Viernes 16 · CrossFit 8:30
 
 ### Antes
-- Muesli: **20–25 g**
+- **1/2 plátano**
 - Agua
 - Café opcional
 
 ### Después
-- Último yogur: **1 unidad**
-- Muesli: **35–45 g**
+- Pan integral: **70–80 g**
+- Philadelphia: **20–25 g**
+- Huevo frito/a la plancha: **1**
+- Pechuga de pavo: **60–80 g**
 
-### Comida
-- Judías verdes: **1/2 frasco restante**
+### Comida · Pollo con arroz y guisantes
+- Pechuga de pollo: **180–200 g**
 - Arroz seco: **70–80 g**
-- Espinacas/guisantes restantes
+- Guisantes: **80–100 g**
+- Espinacas: **80–100 g** opcionales
+- Aceite: **5 g**
 
 ### Cena ligera
-Si quedan tortillas de trigo:
-- **1–2 tortillas**
-- Espinacas/guisantes salteados
-
-Si no quedan:
-- Arroz seco: **60–70 g**
-- Verdura del congelador
-
-> No hace falta una cena grande porque el entrenamiento ya habrá pasado.
+- Pan integral: **60–70 g**
+- Pechuga de pavo: **70–90 g**
+- Philadelphia: **15–20 g**
+- 1 pieza de fruta
 
 ---
 
 ## Sábado 17
 
 ### Desayuno
-Si queda yogur:
-- Yogur + muesli **35–45 g**
+- Yogur alto en proteína: **200–250 g**
+- Muesli: **35–40 g**
+- 1 pieza de fruta
+- Café
 
-Si no:
-- Pan o tortilla de trigo que quede + café.
-
-Después: revisar inventario, hacer compra y planificar la semana.
-
-## 📌 Prioridades para la compra del sábado
-
-Reponer huevos, Philadelphia, pechuga de pavo, fruta, yogures, atún y pasta para volver a subir la calidad proteica de desayunos/comidas sin aumentar demasiado las calorías.
+Después: revisar inventario real, hacer la compra grande y planificar la semana completa.
 
 ## 📌 Accesos rápidos
 - [Lista de la compra](compra.md)
