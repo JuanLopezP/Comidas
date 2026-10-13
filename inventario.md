@@ -1,29 +1,27 @@
 # 📦 Inventario
 
-> Estado actualizado el martes 13 de octubre de 2026.
+> Estado actualizado el martes 13 de octubre de 2026 antes de la compra.
 
 ## ❄️ Congelador
 - [ ] Caldereta — **1 tupper reservado para una comida de la semana que viene**
-- [ ] Espinacas congeladas — quedan; **priorizar esta semana**
-- [ ] Guisantes congelados — quedan; **priorizar esta semana**
+- [ ] Espinacas congeladas — disponibles; **usar esta semana**
+- [ ] Guisantes congelados — disponibles; **usar esta semana**
 - [ ] Chorizos ibéricos — revisar cantidad el sábado
 - [ ] Cocido casero — **0**
 
 ## 🧊 Nevera / fresco
-- [ ] Caldereta — **1 tupper para una comida esta semana**
+- [ ] Caldereta — **1 tupper para la comida del miércoles**
 - [ ] Yogures — **3**
 - [ ] Huevos — **0**
 - [ ] Queso crema / Philadelphia — **0**
 - [ ] Judías verdes cocidas — **1 frasco**
 - [ ] Fruta — **0**
-- [ ] Fiambre/pechuga de pavo — revisar si queda algo
+- [ ] Fiambre/pechuga de pavo — queda poco o nada; **reponer**
 - [ ] Pan — revisar
-- [ ] Tortillas de trigo — revisar
 
-## 🥫 Conservas y frascos
+## 🥫 Conservas
 - [ ] Atún — **0**
-- [ ] Atún con tomate — confirmar el sábado
-- [ ] Tomate frito — revisar
+- [ ] Atún con tomate — no contar hasta confirmar
 - [ ] Sardinetas — revisar
 
 ## 🍚 Cereales / hidratos
@@ -34,7 +32,7 @@
 
 ## 📌 Reglas útiles
 - CrossFit: **miércoles y viernes a las 8:30**.
-- Desayuno post-CrossFit preferido: **tostada + Philadelphia + huevo frito + pechuga de pavo**.
+- Post-CrossFit preferido: **tostada + Philadelphia + huevo + pechuga de pavo**.
 - Cenas: ligeras salvo la noche anterior a CrossFit.
 - Caldereta: usar como **comida**, no cena.
 - Priorizar espinacas y guisantes del congelador.
