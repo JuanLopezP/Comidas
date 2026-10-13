@@ -32,6 +32,7 @@ Filetes de lomo adobado — 1 paquete familiar
 - 1 tupper de caldereta para esta semana.
 - 1 tupper de caldereta congelado para la semana que viene.
 - 3 yogures, que se gastarán antes de abrir los nuevos.
+- Tortillas/fajitas de trigo; **no comprar más hasta gastar las que quedan**.
 
 
 > Si compras el lomo adobado, dividirlo en paquetes de **4 filetes**, etiquetar y congelar para próximas semanas. No contarlo aún como inventario hasta que esté comprado.
