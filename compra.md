@@ -6,6 +6,8 @@
 ```text
 Plátanos — 5 unidades
 Manzanas, peras o mandarinas — 4 unidades
+Tomates — 4 unidades
+Pimiento rojo o verde — 2 unidades
 Limón — 1 unidad
 ```
 
