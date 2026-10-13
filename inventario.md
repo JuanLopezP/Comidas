@@ -4,8 +4,8 @@
 
 ## ❄️ Congelador
 - [ ] Caldereta — **1 tupper reservado para una comida de la semana que viene**
-- [ ] Espinacas congeladas — disponibles; **usar esta semana**
-- [ ] Guisantes congelados — disponibles; **usar esta semana**
+- [ ] Espinacas congeladas — disponibles; **usar poco a poco en próximas semanas**
+- [ ] Guisantes congelados — disponibles; **usar poco a poco en próximas semanas**
 - [ ] Chorizo ibérico grande — **1 unidad**
 - [ ] Chorizos pequeños — **aprox. 7 unidades**
 - [ ] Cocido casero — **0**
@@ -41,6 +41,7 @@
 - Post-CrossFit preferido: **tostada + Philadelphia + huevo + pechuga de pavo**. Reservar estas tostadas para desayuno, no cena.
 - Cenas: ligeras salvo la noche anterior a CrossFit.
 - Caldereta: usar como **comida**, no cena.
-- Priorizar espinacas, guisantes y tortillas/fajitas que ya están abiertas o almacenadas.
+- Rotar espinacas y guisantes poco a poco para que no se queden olvidados; no hace falta gastarlos todos esta semana.
+- Priorizar tortillas/fajitas que ya están abiertas o almacenadas.
 - Judías verdes: **1 frasco = 2 raciones**.
 - Planificar solo hasta el desayuno del sábado.
