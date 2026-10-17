@@ -21,8 +21,8 @@
 - [ ] Philadelphia — disponible
 - [ ] Pechuga de pavo en lonchas — **queda poco; reponer**
 - [ ] Fajitas/tortillas de trigo — **aprox. 2**
-- [ ] Huevos — cantidad por confirmar
-- [ ] Pan integral — cantidad por confirmar
+- [ ] Huevos — suficientes para toda la semana
+- [ ] Pan integral — suficiente para toda la semana
 
 ## 🥫 Conservas
 - [ ] Atún con tomate — **3 latas**
