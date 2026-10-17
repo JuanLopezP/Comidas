@@ -13,11 +13,10 @@ Limón — 1 unidad
 ## Supermercado
 ```text
 Pechuga de pavo en lonchas — 2 bandejas
-Huevos — 12 unidades
-Pan integral para tostadas — 1 paquete o barra
 Yogures altos en proteína o Skyr — 5 unidades
 Pasta — 1 paquete de 500 g
-Salmón fresco — 1 ración de 180–200 g
+Merluza fresca o congelada — 1 ración de 180–220 g
+Arroz cocido en tarrinas — 3 unidades
 ```
 
 ## Ya hay en casa
