@@ -1,47 +1,50 @@
 # 📦 Inventario
 
-> Estado actualizado el martes 13 de octubre de 2026 antes de la compra.
+> Estado actualizado el sábado 17 de octubre de 2026 antes de la nueva semana.
 
 ## ❄️ Congelador
-- [ ] Caldereta — **1 tupper reservado para una comida de la semana que viene**
-- [ ] Espinacas congeladas — disponibles; **usar poco a poco en próximas semanas**
-- [ ] Guisantes congelados — disponibles; **usar poco a poco en próximas semanas**
+- [ ] Caldereta — **1 tupper**
+- [ ] Lomo adobado — **3 paquetes de 4 filetes**
+- [ ] Espinacas congeladas — disponibles; rotar poco a poco
+- [ ] Guisantes congelados — disponibles; rotar poco a poco
 - [ ] Chorizo ibérico grande — **1 unidad**
 - [ ] Chorizos pequeños — **aprox. 7 unidades**
-- [ ] Cocido casero — **0**
 
 ## 🧊 Nevera / fresco
-- [ ] Caldereta — **1 tupper para la comida del miércoles**
+- [ ] Pechuga de pollo — **bastantes filetes**
+- [ ] Arroz cocido — **1 tarrina**
+- [ ] Judías verdes cocidas — **1 frasco sin abrir/gastar**
+- [ ] Tomates rosa medianos — **2**
+- [ ] Plátanos — **3**
+- [ ] Mangos grandes — **3**
 - [ ] Yogures — **3**
-- [ ] Huevos — **0**
-- [ ] Queso crema / Philadelphia — **0**
-- [ ] Judías verdes cocidas — **1 frasco**
-- [ ] Fruta — **0**
-- [ ] Fiambre/pechuga de pavo — queda poco o nada; **reponer**
-- [ ] Pan — **0**
-- [ ] Tortillas de trigo/fajitas — **quedan; priorizar rotación**
+- [ ] Philadelphia — disponible
+- [ ] Pechuga de pavo en lonchas — **queda poco; reponer**
+- [ ] Fajitas/tortillas de trigo — **aprox. 2**
+- [ ] Huevos — cantidad por confirmar
+- [ ] Pan integral — cantidad por confirmar
 
 ## 🥫 Conservas
-- [ ] Atún — **0**
 - [ ] Atún con tomate — **3 latas**
 - [ ] Sardinetas — **6 paquetes de 1 latilla**
+- [ ] Atún normal — cantidad por confirmar
 
 ## 🥣 Caldos
-- [ ] Caldo de pollo — **2 briks de 1 L**
+- [ ] Caldo de pollo — **aprox. 500 ml**
 
 ## 🍚 Cereales / hidratos
 - [ ] Arroz seco — **de sobra**
-- [ ] Pasta — **0**
 - [ ] Fideos — **casi 1 bolsa**
+- [ ] Pasta — cantidad por confirmar / reponer para el plan
 - [ ] Muesli — disponible
 - [ ] Avena — disponible
 
 ## 📌 Reglas útiles
-- CrossFit: **miércoles y viernes a las 8:30**.
-- Post-CrossFit preferido: **tostada + Philadelphia + huevo + pechuga de pavo**. Reservar estas tostadas para desayuno, no cena.
-- Cenas: ligeras salvo la noche anterior a CrossFit.
-- Caldereta: usar como **comida**, no cena.
-- Rotar espinacas y guisantes poco a poco para que no se queden olvidados; no hace falta gastarlos todos esta semana.
-- Priorizar tortillas/fajitas que ya están abiertas o almacenadas.
-- Judías verdes: **1 frasco = 2 raciones**.
-- Planificar solo hasta el desayuno del sábado.
+- CrossFit esta semana: **lunes, miércoles y viernes por la mañana**.
+- Post-CrossFit: **tostada + Philadelphia + huevo + pechuga de pavo**.
+- Tostadas de pavo: reservar para desayunos.
+- Cenas: ligeras salvo domingo, martes y jueves por ser víspera de CrossFit.
+- Rotar primero productos abiertos o perecederos; congelados y conservas se gastan progresivamente.
+- Espinacas y guisantes: recordar que existen, pero no forzar su consumo.
+- Lomo adobado: paquetes de **4 filetes**.
+- Planificar hasta el desayuno del sábado.
