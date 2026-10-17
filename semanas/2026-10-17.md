@@ -8,7 +8,7 @@
 |---|---|---|---|
 | **Sáb 17** | Yogur + muesli + mango | Pollo + tarrina de arroz + tomate | Sardinetas con tomate en las 2 fajitas restantes |
 | **Dom 18** | Yogur + muesli + mango | Caldereta + 1/2 frasco de judías verdes | Pasta con atún con tomate · pre-CrossFit |
-| **Lun 19 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Salmón + arroz + judías verdes | Sopa ligera de fideos, caldo y huevo |
+| **Lun 19 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Merluza + arroz + judías verdes | Sopa ligera de fideos, caldo y huevo |
 | **Mar 20** | Yogur + muesli + fruta | Pollo salteado con arroz y guisantes | Lomo adobado + arroz + pimiento · pre-CrossFit |
 | **Mié 21 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Pasta con atún con tomate y verduras | Tortilla francesa + tomate + fruta |
 | **Jue 22** | Yogur + muesli + mango/fruta | Sardinetas + arroz + tomate | Pasta con pollo y guisantes · pre-CrossFit |
@@ -79,9 +79,9 @@
 - Huevo: **1**
 - Pechuga de pavo: **60–80 g**
 
-### Comida · Salmón con arroz y judías
-- Salmón: **180–200 g**
-- Arroz seco: **70–80 g**
+### Comida · Merluza con arroz y judías
+- Merluza: **180–220 g**
+- 1 tarrina de arroz cocido o arroz seco **70–80 g**
 - Judías verdes: **1/2 frasco restante**
 - Limón
 - Aceite: **5 g**
