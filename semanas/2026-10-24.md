@@ -2,186 +2,197 @@
 
 ## Semana actual · viernes 23 – sábado 31 octubre 2026
 
-> Semana complicada: desde la cena del viernes hasta la cena del miércoles, todas las comidas principales deben requerir **5–15 min de trabajo activo**. CrossFit de referencia: lunes, miércoles y viernes por la mañana.
+> Semana condicionada por bici el sábado, examen el lunes por la tarde, exposición el miércoles y CrossFit martes y jueves por la mañana. Hasta el miércoles se priorizan comidas rápidas y digestivas.
 
 | Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
-| **Vie 23** | — | — | Sardinetas + tomate + pan |
-| **Sáb 24** | Yogur + muesli + fruta | Pollo + tarrina de arroz + pisto | Pizza |
-| **Dom 25** | Tostada con jamón + fruta | Lomo + patata al micro + pimiento | Pasta rápida con atún normal y tomate · pre-CrossFit |
-| **Lun 26 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Bacalao + tarrina de arroz + verduras | Sopa rápida de fideos + huevo |
-| **Mar 27** | Yogur + muesli + fruta | Caldereta + tarrina de arroz | Patatas alioli con atún + tomate · pre-CrossFit |
-| **Mié 28 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Lomo + tarrina de arroz + pimiento | Tortilla de espinacas + fruta |
-| **Jue 29** | Yogur + muesli + fruta | Pollo con arroz y guisantes | Pasta con pollo y verduras · pre-CrossFit |
-| **Vie 30 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Pescado blanco + patata + verduras | Cena ligera de sardinetas + tomate |
+| **Vie 23** | — | — | Hamburguesa con queso + 1/2 empanada de atún |
+| **Sáb 24 · Bici por la tarde** | Yogur + muesli | Pasta con atún y pisto · pre-bici | Pizza de atún y bacon |
+| **Dom 25** | Tostada con salmón ahumado + queso blanco | Dorada + arroz + verduras | Sopa rápida de fideos + huevo |
+| **Lun 26 · Examen tarde** | Yogur + muesli + fruta | Arroz cocido + pollo + pisto/verdura · 10 min | Patatas alioli con atún + tomate |
+| **Mar 27 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Caldereta + arroz cocido | Pasta con pollo y guisantes · pre-CrossFit no necesaria; cena normal |
+| **Mié 28 · Exposición** | Yogur + muesli + fruta | Bocadillo/tostadas de salmón ahumado + queso blanco + tomate | Lomo adobado + arroz cocido + pimiento · pre-CrossFit |
+| **Jue 29 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Pasta con atún y verduras | Cena ligera: tortilla francesa + tomate |
+| **Vie 30** | Yogur + muesli + fruta | Pollo con arroz y guisantes | Sardinetas + tomate + pan |
 | **Sáb 31** | Yogur + muesli + fruta | — nueva planificación — | — |
 
-## ⚡ Regla hasta el miércoles
+## Prioridades
 
-- Nada de recetas largas ni preparaciones por lotes.
-- Usar **tarrinas de arroz cocido**, microondas, conservas y congelados ya preparados.
-- Descongelar en nevera la noche anterior lo que toque.
-- El medio frasco de **pisto** se gasta el sábado.
-- La **caldereta** se usa el martes al mediodía.
-- Priorizar los **2 recipientes de arroz cocido** antes de abrir tarrinas nuevas.
-- Las **patatas alioli** van el martes por la noche con atún para asegurar proteína.
-- Espinacas y guisantes entran solo puntualmente.
+- **Viernes:** cena ya decidida: hamburguesa + media empanada.
+- **Sábado bici:** comida con pasta 2–3 h antes; llevar plátano/barrita si la ruta supera ~90 min.
+- **Sábado noche:** pizza ya comprada.
+- **Lunes:** comida de 10 min para no perder tiempo antes del examen.
+- **Miércoles:** comida ligera y rápida antes de la exposición.
+- **CrossFit:** esta semana martes y jueves por la mañana.
+- **Medio pisto:** usarlo entre sábado/lunes.
+- **Arroz cocido:** hay 2 recipientes; priorizarlos lunes y miércoles.
+- **Atún normal:** ya comprado, pack de 6; usar 2–3 latas esta semana.
+- **Lomo adobado:** quedan 2 paquetes congelados de 4 filetes; usar 1 el miércoles.
+- **Caldereta:** usar el martes al mediodía.
+- **Espinacas y guisantes:** rotar poco a poco, no forzar.
 
 ---
 
 ## Viernes 23 · Cena
 
-### Sardinetas con tomate y pan · 5 min
-- Sardinetas: **1–2 latillas**
-- Tomate
-- Pan integral: **60–70 g**
-- Limón/vinagre opcional
+- Hamburguesa con queso: **1**
+- Empanada de atún: **1/2**
+
+> No hace falta añadir nada más salvo agua y, si te apetece, tomate.
 
 ---
 
-## Sábado 24
+## Sábado 24 · Bici por la tarde
 
 ### Desayuno
-- Yogur alto en proteína
+- Yogur
 - Muesli: **35–40 g**
-- Fruta
+- Café
 
-### Comida · Pollo con arroz y pisto · 10 min
-- Pollo descongelado: **180–200 g**
-- Recipiente de arroz cocido: **1**
+### Comida pre-bici · Pasta con atún y pisto
+- Pasta seca: **90–100 g**
+- Atún normal: **1 lata**
 - Pisto: **1/2 frasco restante**
 - Aceite: **0–5 g**
 
-### Cena
-- **Pizza**
+> Comer unas **2–3 horas antes** de salir.
 
-> Cena libre y sencilla para el sábado. El resto del día se mantiene normal para que encaje bien dentro de la semana.
+### Durante la ruta
+- Agua
+- **1 plátano**
+- **1 barrita de muesli/frutos secos** si la ruta es larga o dura
+
+### Cena
+- **Pizza de atún y bacon**
 
 ---
 
 ## Domingo 25
 
 ### Desayuno
-- Pan integral: **70–80 g**
-- Jamón
+- Pan: **70–80 g**
+- Salmón ahumado: **50–70 g**
+- Queso blanco natural: **40–60 g**
 - Fruta
 
-### Comida · Lomo con patata rápida · 15 min
-- Lomo adobado: **4 filetes**
-- Patata: **220–250 g**, cocida primero en microondas
-- Pimiento verde: **1/2–1**
-- Aceite: **0–5 g**
-
-### Cena pre-CrossFit · Pasta rápida · 12 min
-- Pasta seca: **85–95 g**
-- Atún normal: **1 lata**
-- Tomate frito o tomate triturado: **100–120 g**
-- Cebolla/pimiento si apetece
-
----
-
-## Lunes 26 · CrossFit
-
-### Antes
-- **1/2 plátano**
-
-### Después
-- Pan integral: **70–80 g**
-- Philadelphia: **20–25 g**
-- Huevo: **1**
-- Pechuga de pavo: **60–80 g**
-
-### Comida · Bacalao con arroz · 12 min
-- Bacalao: **180–220 g**
-- Tarrina de arroz cocido: **1**
-- Verdura rápida: pimiento/calabacín/zanahoria
+### Comida · Dorada
+- Filete de dorada: **1 ración**
+- Arroz seco: **70–80 g**
+- Pimiento/tomate/verdura disponible
 - Aceite: **5 g**
 
-### Cena · Sopa rápida · 10 min
+### Cena rápida · Sopa
 - Caldo de pollo: **350–450 ml**
 - Fideos: **40–50 g**
 - Huevo: **1–2**
-- Espinacas congeladas: un puñado opcional
+- Espinacas: un puñado opcional
 
 ---
 
-## Martes 27
+## Lunes 26 · Examen por la tarde
 
 ### Desayuno
-- Yogur alto en proteína
+- Yogur
 - Muesli: **35–40 g**
 - Fruta
 
-### Comida · Caldereta + arroz · 5–8 min
-- Caldereta: **1 tupper**
-- Recipiente de arroz cocido: **1/2–1**, según tamaño del tupper
+### Comida rápida · Arroz con pollo
+- Arroz cocido: **1 recipiente**
+- Pollo: **180–200 g**
+- Tomate/pimiento o un poco de guisantes
+- Aceite: **5 g**
 
-### Cena pre-CrossFit · Patatas alioli con atún · 12–15 min
+> Objetivo: **10 min** y una comida que no sea pesada antes del examen.
+
+### Cena · Patatas alioli con atún
 - Patata: **280–320 g**
 - Atún normal: **1 lata**
 - Tomate: **1**
-- Mayonesa/alioli: **15–20 g**
-- Perejil o ajo opcional
-
-> Cuece la patata en microondas para ahorrar tiempo. Si compras mayonesa en vez de alioli, mezcla una cucharada con un poco de ajo para hacer una versión rápida.
+- Alioli: **15–20 g**
+- Aceitunas: **20–30 g** opcionales
 
 ---
 
-## Miércoles 28 · CrossFit
+## Martes 27 · CrossFit
 
 ### Antes
 - **1/2 plátano**
 
 ### Después
-- Tostada + Philadelphia + huevo + pavo
+- Pan: **70–80 g**
+- Philadelphia: **20–25 g**
+- Huevo: **1**
+- Pavo: **60–80 g**
 
-### Comida · Lomo con arroz · 10 min
-- Lomo adobado: **4 filetes**
-- Tarrina de arroz cocido: **1**
-- Pimiento/verdura disponible
+### Comida rápida · Caldereta
+- Caldereta: **1 tupper**
+- Si necesita hidrato extra: **1/2 recipiente de arroz cocido**
 
-### Cena ligera · Tortilla de espinacas · 10 min
-- Huevos: **2**
-- Espinacas congeladas: **80–100 g**
-- Aceite: **5 g**
-- 1 pieza de fruta
+### Cena
+- Pasta seca: **75–85 g**
+- Pollo: **150–180 g**
+- Guisantes: **60–80 g**
+- Cebolla/ajo opcional
 
 ---
 
-## Jueves 29
+## Miércoles 28 · Exposición
 
 ### Desayuno
 - Yogur + muesli + fruta
 
-### Comida · Pollo con arroz y guisantes
-- Pollo: **180–200 g**
-- Arroz seco: **70–80 g**
-- Guisantes: **70–90 g**
-- Cebolla/ajo
+### Comida ligera y rápida
+- Pan: **80–100 g**
+- Salmón ahumado: **60–80 g**
+- Queso blanco natural: **40–60 g**
+- Tomate
 
-### Cena pre-CrossFit · Pasta con pollo
-- Pasta seca: **85–95 g**
-- Pollo: **180–200 g**
-- Calabacín/pimiento/cebolla
-- Aceite: **5 g**
+> Se puede montar en 5 min y evita una comida pesada antes de la exposición.
+
+### Cena pre-CrossFit · Lomo con arroz
+- Lomo adobado: **4 filetes**
+- Arroz cocido: **1 recipiente**
+- Pimiento verde: **1**
+- Aceite: **0–5 g**
 
 ---
 
-## Viernes 30 · CrossFit
+## Jueves 29 · CrossFit
+
+### Antes
+- **1/2 plátano**
 
 ### Después
 - Tostada + Philadelphia + huevo + pavo
 
-### Comida · Pescado blanco con patata
-- Merluza, bacalao o dorada: **180–220 g**
-- Patata: **220–250 g**
-- Verduras: **150–200 g**
+### Comida
+- Pasta seca: **75–80 g**
+- Atún normal: **1 lata**
+- Tomate/pimiento
+- Guisantes: **50–70 g** opcionales
+
+### Cena ligera
+- Huevos: **2**
+- Tomate
+- Pan: **40–50 g** si tienes hambre
+
+---
+
+## Viernes 30
+
+### Desayuno
+- Yogur + muesli + fruta
+
+### Comida
+- Pollo: **180–200 g**
+- Arroz seco: **70–80 g**
+- Guisantes: **70–90 g**
 - Aceite: **5 g**
 
 ### Cena ligera
 - Sardinetas: **1–2 latillas**
 - Tomate
-- Pan integral: **40–60 g** si tienes hambre
+- Pan: **50–60 g**
 
 ---
 
@@ -193,7 +204,7 @@
 - Fruta
 - Café
 
-Después: revisar inventario y preparar la siguiente semana.
+Después: revisar inventario y planificar la siguiente semana.
 
 ## 📌 Accesos rápidos
 - [Lista de la compra](compra.md)
