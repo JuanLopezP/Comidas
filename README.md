@@ -8,7 +8,7 @@
 |---|---|---|---|
 | **Vie 23** | — | — | Sardinetas + tomate + pan |
 | **Sáb 24** | Yogur + muesli + fruta | Pollo + tarrina de arroz + pisto | Tortilla francesa + tomate |
-| **Dom 25** | Tostada con jamón + fruta | Lomo + patata al micro + pimiento | Pasta rápida con atún con tomate · pre-CrossFit |
+| **Dom 25** | Tostada con jamón + fruta | Lomo + patata al micro + pimiento | Pasta rápida con atún normal y tomate · pre-CrossFit |
 | **Lun 26 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Bacalao + tarrina de arroz + verduras | Sopa rápida de fideos + huevo |
 | **Mar 27** | Yogur + muesli + fruta | Caldereta + tarrina de arroz | Patatas alioli con atún + tomate · pre-CrossFit |
 | **Mié 28 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Lomo + tarrina de arroz + pimiento | Tortilla de espinacas + fruta |
@@ -23,6 +23,7 @@
 - Descongelar en nevera la noche anterior lo que toque.
 - El medio frasco de **pisto** se gasta el sábado.
 - La **caldereta** se usa el martes al mediodía.
+- Priorizar los **2 recipientes de arroz cocido** antes de abrir tarrinas nuevas.
 - Las **patatas alioli** van el martes por la noche con atún para asegurar proteína.
 - Espinacas y guisantes entran solo puntualmente.
 
@@ -47,7 +48,7 @@
 
 ### Comida · Pollo con arroz y pisto · 10 min
 - Pollo descongelado: **180–200 g**
-- Tarrina de arroz cocido: **1**
+- Recipiente de arroz cocido: **1**
 - Pisto: **1/2 frasco restante**
 - Aceite: **0–5 g**
 
@@ -73,7 +74,8 @@
 
 ### Cena pre-CrossFit · Pasta rápida · 12 min
 - Pasta seca: **85–95 g**
-- Atún con tomate: **1 lata**
+- Atún normal: **1 lata**
+- Tomate frito o tomate triturado: **100–120 g**
 - Cebolla/pimiento si apetece
 
 ---
@@ -112,7 +114,7 @@
 
 ### Comida · Caldereta + arroz · 5–8 min
 - Caldereta: **1 tupper**
-- Tarrina de arroz cocido: **1/2–1**, según tamaño del tupper
+- Recipiente de arroz cocido: **1/2–1**, según tamaño del tupper
 
 ### Cena pre-CrossFit · Patatas alioli con atún · 12–15 min
 - Patata: **280–320 g**
