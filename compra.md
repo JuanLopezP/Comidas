@@ -19,9 +19,11 @@ Limones — 2 unidades
 ```text
 Huevos — 12 unidades
 Pechuga de pavo en lonchas — 2 bandejas
+Pan integral para tostadas — 1 paquete o barra
 Yogures altos en proteína o Skyr — 7 unidades
 Pasta — 1 paquete de 500 g
 Mayonesa — 1 bote pequeño
+Atún en conserva — 4 latas
 Arroz cocido en tarrinas — 3 unidades
 Bacalao fresco o congelado — 1 ración de 180–220 g
 Merluza o dorada — 1 ración de 180–220 g
