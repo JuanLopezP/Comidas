@@ -1,35 +1,41 @@
-# 🛒 Compra · semana 17–24 octubre
+# 🛒 Compra · semana 24–31 octubre
 
-> Compra para completar el inventario actual sin acumular de más.
+> Compra completa para reponer frescos y completar lo que ya hay en casa.
 
 ## Frutería
 ```text
-Manzanas, peras o mandarinas — 5 unidades
-Pimientos — 3 unidades
-Tomates — 4 unidades
-Limón — 1 unidad
+Plátanos — 7 unidades
+Manzanas, peras o mandarinas — 6 unidades
+Mangos — 2 unidades
+Calabacines — 2 unidades
+Pimientos rojos — 2 unidades
+Zanahorias — 1 bolsa
+Cebollas — 1 kg
+Patatas — 1,5 kg
+Limones — 2 unidades
 ```
 
 ## Supermercado
 ```text
+Huevos — 12 unidades
 Pechuga de pavo en lonchas — 2 bandejas
-Yogures altos en proteína o Skyr — 5 unidades
+Yogures altos en proteína o Skyr — 7 unidades
 Pasta — 1 paquete de 500 g
-Merluza fresca o congelada — 1 ración de 180–220 g
+Mayonesa — 1 bote pequeño
 Arroz cocido en tarrinas — 3 unidades
+Bacalao fresco o congelado — 1 ración de 180–220 g
+Merluza o dorada — 1 ración de 180–220 g
 ```
 
 ## Ya hay en casa
-- 3 plátanos y 3 mangos grandes.
-- Bastantes filetes de pechuga de pollo.
-- 3 paquetes de lomo adobado de 4 filetes.
-- 1 tupper de caldereta.
-- 1 tarrina de arroz cocido y arroz seco de sobra.
-- 1 frasco de judías verdes.
-- 3 latas de atún con tomate.
-- 6 latillas de sardinetas.
-- Medio litro de caldo de pollo y casi una bolsa de fideos.
-- Espinacas y guisantes congelados.
+- Arroz seco.
+- Medio frasco de pisto.
+- Tomates y 1 pimiento verde.
 - Philadelphia.
-- Muesli y avena.
-- Aproximadamente 2 fajitas/tortillas de trigo.
+- Algo de jamón.
+- Pollo congelado.
+- 2 paquetes de lomo adobado de 4 filetes.
+- 1 tupper de caldereta.
+- Espinacas y guisantes congelados.
+- Muesli, avena y fideos.
+- Conservas de atún con tomate y sardinetas según stock restante.
