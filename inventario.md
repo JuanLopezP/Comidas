@@ -19,7 +19,8 @@
 - [ ] Pechuga de pavo — queda algo
 - [ ] Jamón — queda algo
 - [ ] Tomates — disponibles
-- [ ] Pimiento verde — **1**
+- [ ] Pimiento verde — **1**; **gastar esta semana**
+- [ ] Cebolla — **1**
 - [ ] Pisto — **1/2 frasco**
 - [ ] Pan — comprado
 - [ ] Salmón ahumado — **1 paquete**
