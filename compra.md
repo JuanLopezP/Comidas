@@ -24,6 +24,7 @@ Yogures altos en proteína o Skyr — 7 unidades
 Pasta — 1 paquete de 500 g
 Mayonesa — 1 bote pequeño
 Atún en conserva — 4 latas
+Aceitunas — 1 frasco o lata
 Arroz cocido en tarrinas — 3 unidades
 Bacalao fresco o congelado — 1 ración de 180–220 g
 Merluza o dorada — 1 ración de 180–220 g
@@ -31,6 +32,7 @@ Merluza o dorada — 1 ración de 180–220 g
 
 ## Ya hay en casa
 - Arroz seco.
+- Arroz cocido: **2 recipientes**; usar antes de abrir los nuevos.
 - Medio frasco de pisto.
 - Tomates y 1 pimiento verde.
 - Philadelphia.
