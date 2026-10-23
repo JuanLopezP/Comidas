@@ -27,3 +27,11 @@ Huevos — 12 unidades
 - Queso blanco.
 - Yogures.
 - Arroz cocido: quedan 2 recipientes.
+
+
+## No comprar más verduras esta semana
+- Cebolla: queda **1**.
+- Pimiento verde: queda **1** y se gastará esta semana.
+- No hace falta comprar calabacín.
+- No hace falta comprar más pimientos.
+- No hace falta comprar zanahoria.
