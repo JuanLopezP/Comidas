@@ -22,7 +22,7 @@
 - [ ] Pimiento verde — **1**
 - [ ] Pisto — **1/2 frasco**
 - [ ] Judías verdes — **0**
-- [ ] Pan integral — revisar cantidad al volver de la compra
+- [ ] Pan integral — **0**
 
 ## 🥫 Conservas
 - [ ] Atún normal — **0**
