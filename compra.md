@@ -7,6 +7,7 @@
 Plátanos — 6 unidades
 Manzanas, peras o mandarinas — 5 unidades
 Mangos — 2 unidades
+Patatas — 1,5 kg
 ```
 
 ## Supermercado
