@@ -25,13 +25,16 @@
 - [ ] Pan integral — revisar cantidad al volver de la compra
 
 ## 🥫 Conservas
-- [ ] Atún con tomate — mantener stock previo salvo consumo no registrado
+- [ ] Atún normal — **0**
+- [ ] Atún con tomate — **0**
+- [ ] Aceitunas — **0**
 - [ ] Sardinetas — mantener stock previo salvo consumo no registrado
 
 ## 🥣 Caldos
 - [ ] Caldo de pollo — mantener remanente previo si aún queda
 
 ## 🍚 Cereales / hidratos
+- [ ] Arroz cocido — **2 recipientes**
 - [ ] Arroz seco — de sobra
 - [ ] Fideos — disponibles
 - [ ] Muesli — disponible
