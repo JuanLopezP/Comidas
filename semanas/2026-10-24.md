@@ -7,7 +7,7 @@
 | Día | 🌅 Desayuno / preentreno | 🍲 Comida | 🌙 Cena |
 |---|---|---|---|
 | **Vie 23** | — | — | Sardinetas + tomate + pan |
-| **Sáb 24** | Yogur + muesli + fruta | Pollo + tarrina de arroz + pisto | Tortilla francesa + tomate |
+| **Sáb 24** | Yogur + muesli + fruta | Pollo + tarrina de arroz + pisto | Pizza |
 | **Dom 25** | Tostada con jamón + fruta | Lomo + patata al micro + pimiento | Pasta rápida con atún normal y tomate · pre-CrossFit |
 | **Lun 26 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Bacalao + tarrina de arroz + verduras | Sopa rápida de fideos + huevo |
 | **Mar 27** | Yogur + muesli + fruta | Caldereta + tarrina de arroz | Patatas alioli con atún + tomate · pre-CrossFit |
@@ -52,10 +52,10 @@
 - Pisto: **1/2 frasco restante**
 - Aceite: **0–5 g**
 
-### Cena ligera · 10 min
-- Huevos: **2**
-- Tomate
-- Pan integral: **40–50 g** si tienes hambre
+### Cena
+- **Pizza**
+
+> Cena libre y sencilla para el sábado. El resto del día se mantiene normal para que encaje bien dentro de la semana.
 
 ---
 
