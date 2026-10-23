@@ -8,12 +8,12 @@
 |---|---|---|---|
 | **Vie 23** | — | — | Hamburguesa con queso + 1/2 empanada de atún |
 | **Sáb 24 · Bici por la tarde** | Yogur + muesli | Pasta con atún y pisto · pre-bici | Pizza de atún y bacon |
-| **Dom 25** | Tostada con salmón ahumado + queso blanco | Dorada + arroz + verduras | Sopa rápida de fideos + huevo |
-| **Lun 26 · Examen tarde** | Yogur + muesli + fruta | Arroz cocido + pollo + pisto/verdura · 10 min | Patatas alioli con atún + tomate |
-| **Mar 27 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Caldereta + arroz cocido | Pasta con pollo y guisantes · pre-CrossFit no necesaria; cena normal |
+| **Dom 25** | Tostada con salmón ahumado + queso blanco | Paella/arroz con sofrito congelado · 2 raciones | Sopa rápida de fideos + huevo |
+| **Lun 26 · Examen tarde** | Yogur + muesli + fruta | Ración de paella/arroz del domingo · recalentar | Patatas alioli con atún + tomate |
+| **Mar 27 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Caldereta + arroz cocido | Pasta con atún y guisantes |
 | **Mié 28 · Exposición** | Yogur + muesli + fruta | Bocadillo/tostadas de salmón ahumado + queso blanco + tomate | Lomo adobado + arroz cocido + pimiento · pre-CrossFit |
 | **Jue 29 · CrossFit** | Pre: 1/2 plátano · Post: tostada + Philadelphia + huevo + pavo | Pasta con atún y verduras | Cena ligera: tortilla francesa + tomate |
-| **Vie 30** | Yogur + muesli + fruta | Pollo con arroz y guisantes | Sardinetas + tomate + pan |
+| **Vie 30** | Yogur + muesli + fruta | Lomo adobado + arroz + guisantes | Sardinetas + tomate + pan |
 | **Sáb 31** | Yogur + muesli + fruta | — nueva planificación — | — |
 
 ## Prioridades
@@ -75,11 +75,14 @@
 - Queso blanco natural: **40–60 g**
 - Fruta
 
-### Comida · Dorada
-- Filete de dorada: **1 ración**
-- Arroz seco: **70–80 g**
-- Pimiento/tomate/verdura disponible
-- Aceite: **5 g**
+### Comida · Paella/arroz con sofrito congelado
+- Sofrito congelado: **1 preparado**
+- Arroz seco: **160–180 g** para 2 raciones
+- Caldo/agua: según necesite
+- Guisantes: **50–80 g** opcionales
+- Proteína del sofrito si ya la lleva; si no, añade **1–2 latas de atún** al servir o deja la proteína para otra comida
+
+> Haz **2 raciones**: una para el domingo y otra para el lunes.
 
 ### Cena rápida · Sopa
 - Caldo de pollo: **350–450 ml**
@@ -96,13 +99,11 @@
 - Muesli: **35–40 g**
 - Fruta
 
-### Comida rápida · Arroz con pollo
-- Arroz cocido: **1 recipiente**
-- Pollo: **180–200 g**
-- Tomate/pimiento o un poco de guisantes
-- Aceite: **5 g**
+### Comida rápida · Paella/arroz del domingo
+- **1 ración ya preparada**
+- Recalentar y listo
 
-> Objetivo: **10 min** y una comida que no sea pesada antes del examen.
+> Objetivo: **5 min**, sin cocinar y sin llegar pesado al examen.
 
 ### Cena · Patatas alioli con atún
 - Patata: **280–320 g**
@@ -130,7 +131,7 @@
 
 ### Cena
 - Pasta seca: **75–85 g**
-- Pollo: **150–180 g**
+- Atún normal: **1 lata**
 - Guisantes: **60–80 g**
 - Cebolla/ajo opcional
 
@@ -184,10 +185,10 @@
 - Yogur + muesli + fruta
 
 ### Comida
-- Pollo: **180–200 g**
+- Lomo adobado: **4 filetes**
 - Arroz seco: **70–80 g**
 - Guisantes: **70–90 g**
-- Aceite: **5 g**
+- Aceite: **0–5 g**
 
 ### Cena ligera
 - Sardinetas: **1–2 latillas**
