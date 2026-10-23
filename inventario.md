@@ -3,9 +3,9 @@
 > Estado actualizado el viernes 23 de octubre de 2026 tras la compra.
 
 ## ❄️ Congelador
+- [ ] Sofrito preparado para paella/arroz — **1 ración/base congelada**
 - [ ] Caldereta — **1 tupper**
 - [ ] Lomo adobado — **2 paquetes de 4 filetes**
-- [ ] Pechuga de pollo — queda stock congelado
 - [ ] Espinacas congeladas — quedan
 - [ ] Guisantes congelados — quedan
 - [ ] Chorizo ibérico grande — **1 unidad**
